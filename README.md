@@ -1,0 +1,1 @@
+# Szczecin Space Apps Challenge
