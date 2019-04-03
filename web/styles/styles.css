@@ -1,0 +1,63 @@
+nav.custom-navbar {
+    overflow: hidden;
+    background-color: white;
+    transition: 0.4s;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    color: black;
+  }
+
+  nav.custom-navbar .container {
+      max-width: 1000px;
+  }
+
+  nav.custom-navbar ul.navbar-nav a {
+    background-image: linear-gradient(120deg, #009cdd 0%, #009cdd 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 0em;
+    background-position: 0 88%;
+    transition: background-size 0.25s ease-in;
+
+    color: black;
+    margin: 0px 10px;
+  }
+
+  nav.custom-navbar ul.navbar-nav a:hover {
+    background-size: 100% 0.1em;
+  }
+
+  nav.custom-navbar .logo {
+      width: auto;
+      height: 300px;
+  }
+
+  @media only screen and (min-width: 320px) and (max-width: 480px) {
+    nav.custom-navbar .logo {
+        width: 100%;
+        height: auto;
+    }
+  }
+
+  .container.main {
+      padding-top: 340px;
+      max-width: 1000px;
+  }
+
+  #about {
+      display: flex;
+  }
+
+  #about .text {
+    width: 40%;
+  }
+
+  #about .picture {
+    width: 60%;
+    padding: 0 30px;
+  }
+
+  #about .picture img {
+      width: 100%;
+      height: auto;
+  }
