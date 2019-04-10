@@ -3,72 +3,111 @@
 body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: #17297f;
+}
+
+header {
+    width: calc(100% - 120px);
+    padding: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 80%;
+}
+
+header .logo img {
+    height: 150px;
+    width: auto;
 }
 
 div.container {
-    overflow: hidden;
-    background-color: white;
-    padding-left: 200px;
+    margin: auto;
+    padding: 10px;
+    max-width: 1000px;
 }
 
-nav.sidebar {
-    display: flex;
-    flex-direction: column;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 200px;
-    height: 100vh;
+div.container .mobile-logo {
+    display: none;
 }
 
-div.logo {
-    padding: 30px;
+div.container section:not(:first-child) {
+    margin-top: 50px;
 }
 
-div.logo img {
-    width: 100%;
+div.container .date-info {
+    margin-bottom: 50px;
 }
 
-div.social-links {
-    margin: auto 0 50px 0;
-    position: relative;
-    bottom: 0;
-    left: 0;
-    width: 200px;
-    text-align: center;
+.h-smaller {
+    margin: 0;
+    font-size: 3em;
+    display: block;
 }
 
-div.social-links img {
-    margin: 30px 0;
+.h-bigger {
+    font-size: 4em;
+    display: block;
 }
 
-.menu-wrapper {
-    overflow: hidden;
-    position: absolute;
-    top: 200px;
-    left: 160px;
-    height: auto;
-    width: auto;
-    min-height: 80px;
-    z-index: 99;
-    background-color: #17297f;
-    color: white;
-    padding: 20px;
+div.content-wrapper img {
+    float: right;
+    max-width: 100%;
 }
 
-.main-image {
-    width: calc(100vw - 200px);
-    position: relative;
+@media screen and (max-width: 600px) {
+    header {
+        padding: 10px;
+        width: calc(100% - 20px);
+        margin: 0;
+    }
+    header .logo {
+        display: none;
+    }
+
+    div.container .mobile-logo {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 50px;
+    }
+
+    div.container .mobile-logo img {
+        width: 80vw;
+    }
+
+    .h-bigger {
+        font-size: 3em;
+    }
+
+    div.content-wrapper img {
+        margin: 30px 0;
+    }
 }
 
-.main-image img {
-    width: 100%;
+/* text effects */
+
+span.colorful--background {
+    padding: 0 5px 0 5px;
+    font-weight: 600;
 }
 
-.main-image .img-overlay {
-    position: absolute;
-    bottom: 50px;
-    left: 50px;
-    color: white;
-    font-size: 80px;
+span.colorful--background.blue {
+    background: #009cdd;
 }
+
+span.colorful--background.green {
+    background: #a2be3a;
+}
+
+.underline--magical {
+    background-image: linear-gradient(120deg, #a2be3a 0%, #009cdd 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 0.2em;
+    background-position: 0 88%;
+    transition: background-size 0.25s ease-in;
+  }
+
+.underline--magical:hover {
+    background-size: 100% 88%;
+  }
