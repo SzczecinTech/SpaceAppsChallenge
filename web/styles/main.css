@@ -50,8 +50,13 @@ div.container .date-info {
     display: block;
 }
 
+div.content-wrapper {
+    line-height: 150%;
+}
+
 div.content-wrapper img {
     float: right;
+    margin: 15px;
     max-width: 100%;
 }
 
