@@ -7,6 +7,13 @@ body {
     background-color: #17297f;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 0 5px 0 5px;
+}
+
 header {
     width: calc(100% - 120px);
     padding-top: 60px;
@@ -60,6 +67,10 @@ div.content-wrapper img {
     max-width: 100%;
 }
 
+div.content-wrapper ul li {
+    margin-bottom: 10px;
+}
+
 @media screen and (max-width: 600px) {
     header {
         padding: 10px;
@@ -92,24 +103,16 @@ div.content-wrapper img {
 
 /* text effects */
 
-a {
-    background: #009cdd;
-}
-
-a:hover {
-    background: #a2be3a;
-}
-
-span.colorful--background {
+.colorful--background {
     padding: 0 5px 0 5px;
     font-weight: 600;
 }
 
-span.colorful--background.blue {
+.colorful--background.blue {
     background: #009cdd;
 }
 
-span.colorful--background.green {
+.colorful--background.green {
     background: #a2be3a;
 }
 
