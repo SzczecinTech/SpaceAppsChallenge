@@ -92,6 +92,14 @@ div.content-wrapper img {
 
 /* text effects */
 
+a {
+    background: #009cdd;
+}
+
+a:hover {
+    background: #a2be3a;
+}
+
 span.colorful--background {
     padding: 0 5px 0 5px;
     font-weight: 600;
