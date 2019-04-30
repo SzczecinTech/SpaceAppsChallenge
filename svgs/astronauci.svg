@@ -1,0 +1,2318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="astronauci.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1222">
+      <stop
+         style="stop-color:#a2be3a;stop-opacity:1;"
+         offset="0"
+         id="stop1218" />
+      <stop
+         style="stop-color:#a2be3a;stop-opacity:0;"
+         offset="1"
+         id="stop1220" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1210">
+      <stop
+         style="stop-color:#ff0066;stop-opacity:1;"
+         offset="0"
+         id="stop1206" />
+      <stop
+         style="stop-color:#ff0066;stop-opacity:0;"
+         offset="1"
+         id="stop1208" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1200">
+      <stop
+         style="stop-color:#ff6600;stop-opacity:1;"
+         offset="0"
+         id="stop1196" />
+      <stop
+         style="stop-color:#ff6600;stop-opacity:0;"
+         offset="1"
+         id="stop1198" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1190">
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1;"
+         offset="0"
+         id="stop1186" />
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:0;"
+         offset="1"
+         id="stop1188" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1180">
+      <stop
+         style="stop-color:#a2be3a;stop-opacity:1;"
+         offset="0"
+         id="stop1176" />
+      <stop
+         style="stop-color:#a2be3a;stop-opacity:0;"
+         offset="1"
+         id="stop1178" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1179">
+      <stop
+         style="stop-color:#009cdd;stop-opacity:1;"
+         offset="0"
+         id="stop1175" />
+      <stop
+         style="stop-color:#a2be3a;stop-opacity:1"
+         offset="1"
+         id="stop1177" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective931" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1179"
+       id="linearGradient1181"
+       x1="29.356373"
+       y1="-32.029026"
+       x2="41.10339"
+       y2="-20.875816"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       id="perspective2135"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 148.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient16035">
+      <stop
+         id="stop16031"
+         offset="0"
+         style="stop-color:#ff0340;stop-opacity:1" />
+      <stop
+         id="stop16033"
+         offset="1"
+         style="stop-color:#ff7c20;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6695">
+      <stop
+         id="stop6699"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         id="stop6697"
+         offset="1"
+         style="stop-color:#f2f2f2;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6679">
+      <stop
+         id="stop6681"
+         offset="0"
+         style="stop-color:#ececec;stop-opacity:1" />
+      <stop
+         id="stop6683"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6673">
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1;"
+         offset="0"
+         id="stop6675" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop6677" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6653">
+      <stop
+         id="stop6655"
+         offset="0"
+         style="stop-color:#f9f9f9;stop-opacity:1" />
+      <stop
+         id="stop6657"
+         offset="1"
+         style="stop-color:#f2f2f2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5358">
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1"
+         offset="0"
+         id="stop5360" />
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1"
+         offset="1"
+         id="stop5362" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4323">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4325" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4327" />
+    </linearGradient>
+    <marker
+       refY="0"
+       refX="0"
+       style="overflow:visible"
+       id="DistanceX"
+       orient="auto">
+      <path
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         id="path9" />
+    </marker>
+    <pattern
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       y="0"
+       x="0"
+       id="Hatch">
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M8 4 l-4,4"
+         id="path12" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M6 2 l-4,4"
+         id="path14" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M4 0 l-4,4"
+         id="path16" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+    <linearGradient
+       xlink:href="#linearGradient4323"
+       id="linearGradient4333-1"
+       gradientUnits="userSpaceOnUse"
+       x1="402.99673"
+       y1="170.35316"
+       x2="411.742"
+       y2="170.35316"
+       gradientTransform="matrix(0.50567179,0,0,1,196.19251,652.36218)" />
+    <linearGradient
+       y2="170.35316"
+       x2="411.742"
+       y1="170.35316"
+       x1="402.99673"
+       gradientTransform="matrix(0.13363033,0,0,0.29222464,-403.50853,-33.606083)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4350-1"
+       xlink:href="#linearGradient4323" />
+    <linearGradient
+       xlink:href="#linearGradient4323"
+       id="linearGradient4333-6"
+       gradientUnits="userSpaceOnUse"
+       x1="402.99673"
+       y1="170.35316"
+       x2="411.742"
+       y2="170.35316"
+       gradientTransform="matrix(0.13561487,0,0,0.29232048,291.82741,-33.602191)" />
+    <linearGradient
+       xlink:href="#linearGradient5274-3"
+       id="linearGradient5280-3"
+       x1="181.65381"
+       y1="799.50861"
+       x2="235.35835"
+       y2="798.80151"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient5274-3">
+      <stop
+         style="stop-color:#666666;stop-opacity:0.40314135"
+         offset="0"
+         id="stop5276-3" />
+      <stop
+         style="stop-color:#666666;stop-opacity:0;"
+         offset="1"
+         id="stop5278-7" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient5358"
+       id="linearGradient5364"
+       x1="220.50983"
+       y1="800.78748"
+       x2="234.62511"
+       y2="800.78748"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient5358-8"
+       id="linearGradient5364-3"
+       x1="219.64507"
+       y1="801.16248"
+       x2="237.12511"
+       y2="801.16248"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient5358-8">
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1"
+         offset="0"
+         id="stop5360-0" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop5362-8" />
+    </linearGradient>
+    <linearGradient
+       y2="801.16248"
+       x2="237.12511"
+       y1="801.16248"
+       x1="196.64429"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5403"
+       xlink:href="#linearGradient5358-8" />
+    <linearGradient
+       xlink:href="#linearGradient5358"
+       id="linearGradient6164-37"
+       gradientUnits="userSpaceOnUse"
+       x1="219.64507"
+       y1="801.16248"
+       x2="237.12511"
+       y2="801.16248" />
+    <linearGradient
+       xlink:href="#linearGradient6679"
+       id="linearGradient6665"
+       x1="346.4501"
+       y1="754.24359"
+       x2="349.10495"
+       y2="754.24359"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-87.25,-39.499993)" />
+    <linearGradient
+       xlink:href="#linearGradient6695"
+       id="linearGradient6693"
+       x1="365.58936"
+       y1="754.24359"
+       x2="368.2442"
+       y2="754.24359"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       gradientTransform="translate(-87.25,-39.499993)" />
+    <radialGradient
+       xlink:href="#linearGradient6837"
+       id="radialGradient6845"
+       cx="357.81662"
+       cy="734.01245"
+       fx="357.81662"
+       fy="734.01245"
+       r="10.33958"
+       gradientTransform="matrix(0.48708721,-0.05983969,0.12290973,1.0004691,92.872536,21.042692)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient6837">
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1"
+         offset="0"
+         id="stop6839" />
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1"
+         offset="1"
+         id="stop6841" />
+    </linearGradient>
+    <radialGradient
+       r="10.33958"
+       fy="734.01245"
+       fx="357.81662"
+       cy="734.01245"
+       cx="357.81662"
+       gradientTransform="matrix(0.48708721,-0.05983969,0.12290973,1.0004691,5.622544,-18.657301)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient6864"
+       xlink:href="#linearGradient6837" />
+    <radialGradient
+       r="10.33958"
+       fy="734.01245"
+       fx="357.81662"
+       cy="734.01245"
+       cx="357.81662"
+       gradientTransform="matrix(0.48708721,-0.05983969,0.12290973,1.0004691,92.87254,21.04269)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient6864-2"
+       xlink:href="#linearGradient6837" />
+    <linearGradient
+       gradientTransform="translate(-175.25597,35.459728)"
+       xlink:href="#linearGradient6695"
+       id="linearGradient6693-5"
+       x1="365.58936"
+       y1="754.24359"
+       x2="368.2442"
+       y2="754.24359"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+    <linearGradient
+       gradientTransform="translate(-175.25597,35.459728)"
+       xlink:href="#linearGradient6679"
+       id="linearGradient6665-2"
+       x1="346.4501"
+       y1="754.24359"
+       x2="349.10495"
+       y2="754.24359"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       r="10.33958"
+       fy="734.01245"
+       fx="357.81662"
+       cy="734.01245"
+       cx="357.81662"
+       gradientTransform="matrix(0.48708721,-0.05983969,0.12290973,1.0004691,-82.383428,56.502418)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient6909"
+       xlink:href="#linearGradient6837" />
+    <radialGradient
+       xlink:href="#linearGradient7023-4"
+       id="radialGradient7029-1"
+       cx="578.3468"
+       cy="804.16577"
+       fx="578.3468"
+       fy="804.16577"
+       r="9.2758904"
+       gradientTransform="matrix(-8.4964379e-8,-2.0018751,1.0534426,1.6946042e-6,-264.48645,1970.3413)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient7023-4">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop7025-3" />
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1"
+         offset="1"
+         id="stop7027-1" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient7023-4"
+       id="radialGradient7082-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-8.4964379e-8,-2.0018751,1.0534426,1.6946042e-6,-221.98645,1970.3414)"
+       cx="578.3468"
+       cy="804.16577"
+       fx="578.3468"
+       fy="804.16577"
+       r="9.2758904" />
+    <radialGradient
+       xlink:href="#linearGradient7023-4"
+       id="radialGradient7029-0"
+       cx="578.3468"
+       cy="804.16577"
+       fx="578.3468"
+       fy="804.16577"
+       r="9.2758904"
+       gradientTransform="matrix(-8.4964379e-8,-2.0018751,1.0534426,1.6946042e-6,-264.48645,1970.3413)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       r="9.2758904"
+       fy="804.16577"
+       fx="578.3468"
+       cy="804.16577"
+       cx="578.3468"
+       gradientTransform="matrix(-8.4964379e-8,-2.0018751,1.0534426,1.6946042e-6,-264.48645,1970.3413)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient7109"
+       xlink:href="#linearGradient7023-4" />
+    <linearGradient
+       xlink:href="#linearGradient4323"
+       id="linearGradient8319"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.51231404,0,0,1.0827277,154.79224,603.67503)"
+       x1="402.99673"
+       y1="170.35316"
+       x2="411.742"
+       y2="170.35316" />
+    <linearGradient
+       xlink:href="#linearGradient4323"
+       id="linearGradient8321"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.50480087,0,0,1.0827274,-576.70019,603.67502)"
+       x1="402.99673"
+       y1="170.35316"
+       x2="411.742"
+       y2="170.35316" />
+    <radialGradient
+       xlink:href="#linearGradient7023-4"
+       id="radialGradient7082-4-2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.8094152e-8,-0.50595115,0.22434285,4.2829192e-7,17.886502,285.47716)"
+       cx="578.3468"
+       cy="804.16577"
+       fx="578.3468"
+       fy="804.16577"
+       r="9.2758904" />
+    <radialGradient
+       r="9.2758904"
+       fy="804.16577"
+       fx="578.3468"
+       cy="804.16577"
+       cx="578.3468"
+       gradientTransform="matrix(-8.4964379e-8,-2.0018751,1.0534426,1.6946042e-6,-264.48645,1970.3413)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient7109-5"
+       xlink:href="#linearGradient7023-4" />
+    <radialGradient
+       xlink:href="#linearGradient7023-4"
+       id="radialGradient12325"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.2480158e-8,-0.6310967,0.27872335,5.3422869e-7,18.766632,355.93212)"
+       cx="578.3468"
+       cy="804.16577"
+       fx="578.3468"
+       fy="804.16577"
+       r="9.2758904" />
+    <linearGradient
+       xlink:href="#linearGradient4323"
+       id="linearGradient7359"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.51196841,0,0,1.1162079,291.14135,591.28971)"
+       x1="402.99673"
+       y1="170.35316"
+       x2="411.742"
+       y2="170.35316" />
+    <linearGradient
+       xlink:href="#linearGradient4323"
+       id="linearGradient7361"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.50445536,0,0,1.1162077,-712.76879,591.15427)"
+       x1="402.99673"
+       y1="170.35316"
+       x2="411.742"
+       y2="170.35316" />
+    <radialGradient
+       xlink:href="#linearGradient6837"
+       id="radialGradient7363"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.48708721,-0.05983969,0.12290973,1.0004691,190.37254,-28.748299)"
+       cx="357.81662"
+       cy="734.01245"
+       fx="357.81662"
+       fy="734.01245"
+       r="10.33958" />
+    <linearGradient
+       xlink:href="#linearGradient6695"
+       id="linearGradient7369"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       x1="365.58936"
+       y1="754.24359"
+       x2="368.2442"
+       y2="754.24359"
+       gradientTransform="translate(97.5,-49.590992)" />
+    <linearGradient
+       xlink:href="#linearGradient6679"
+       id="linearGradient7371"
+       gradientUnits="userSpaceOnUse"
+       x1="346.4501"
+       y1="754.24359"
+       x2="349.10495"
+       y2="754.24359"
+       gradientTransform="translate(97.5,-49.590992)" />
+    <inkscape:perspective
+       id="perspective2135-1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 148.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2135-9"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 148.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4762"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 148.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2135-8"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 148.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       refY="0"
+       refX="0"
+       style="overflow:visible"
+       id="DistanceX-9"
+       orient="auto">
+      <path
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         id="path9-3" />
+    </marker>
+    <pattern
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       y="0"
+       x="0"
+       id="Hatch-2">
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M8 4 l-4,4"
+         id="path12-5" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M6 2 l-4,4"
+         id="path14-9" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M4 0 l-4,4"
+         id="path16-3" />
+    </pattern>
+    <symbol
+       id="*Model_Space-9" />
+    <symbol
+       id="*Paper_Space-2" />
+    <symbol
+       id="*Paper_Space0-1" />
+    <radialGradient
+       xlink:href="#linearGradient6837"
+       id="radialGradient6845-3"
+       cx="357.81662"
+       cy="734.01245"
+       fx="357.81662"
+       fy="734.01245"
+       r="10.33958"
+       gradientTransform="matrix(0.48708721,-0.05983969,0.12290973,1.0004691,92.872536,21.042692)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       r="10.33958"
+       fy="734.01245"
+       fx="357.81662"
+       cy="734.01245"
+       cx="357.81662"
+       gradientTransform="matrix(0.48708721,-0.05983969,0.12290973,1.0004691,5.622544,-18.657301)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient6864-24"
+       xlink:href="#linearGradient6837" />
+    <radialGradient
+       r="10.33958"
+       fy="734.01245"
+       fx="357.81662"
+       cy="734.01245"
+       cx="357.81662"
+       gradientTransform="matrix(0.48708721,-0.05983969,0.12290973,1.0004691,92.87254,21.04269)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient6864-2-7"
+       xlink:href="#linearGradient6837" />
+    <radialGradient
+       r="10.33958"
+       fy="734.01245"
+       fx="357.81662"
+       cy="734.01245"
+       cx="357.81662"
+       gradientTransform="matrix(0.48708721,-0.05983969,0.12290973,1.0004691,-82.383428,56.502418)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient6909-2"
+       xlink:href="#linearGradient6837" />
+    <radialGradient
+       xlink:href="#linearGradient7023-4"
+       id="radialGradient7029-1-7"
+       cx="578.3468"
+       cy="804.16577"
+       fx="578.3468"
+       fy="804.16577"
+       r="9.2758904"
+       gradientTransform="matrix(-8.4964379e-8,-2.0018751,1.0534426,1.6946042e-6,-264.48645,1970.3413)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#linearGradient7023-4"
+       id="radialGradient7082-4-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-8.4964379e-8,-2.0018751,1.0534426,1.6946042e-6,-221.98645,1970.3414)"
+       cx="578.3468"
+       cy="804.16577"
+       fx="578.3468"
+       fy="804.16577"
+       r="9.2758904" />
+    <radialGradient
+       xlink:href="#linearGradient7023-4"
+       id="radialGradient7029-0-9"
+       cx="578.3468"
+       cy="804.16577"
+       fx="578.3468"
+       fy="804.16577"
+       r="9.2758904"
+       gradientTransform="matrix(-8.4964379e-8,-2.0018751,1.0534426,1.6946042e-6,-264.48645,1970.3413)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       r="9.2758904"
+       fy="804.16577"
+       fx="578.3468"
+       cy="804.16577"
+       cx="578.3468"
+       gradientTransform="matrix(-8.4964379e-8,-2.0018751,1.0534426,1.6946042e-6,-264.48645,1970.3413)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient7109-0"
+       xlink:href="#linearGradient7023-4" />
+    <radialGradient
+       xlink:href="#linearGradient7023-4"
+       id="radialGradient7082-4-2-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.8094152e-8,-0.50595115,0.22434285,4.2829192e-7,17.886502,285.47716)"
+       cx="578.3468"
+       cy="804.16577"
+       fx="578.3468"
+       fy="804.16577"
+       r="9.2758904" />
+    <radialGradient
+       r="9.2758904"
+       fy="804.16577"
+       fx="578.3468"
+       cy="804.16577"
+       cx="578.3468"
+       gradientTransform="matrix(-8.4964379e-8,-2.0018751,1.0534426,1.6946042e-6,-264.48645,1970.3413)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient7109-5-2"
+       xlink:href="#linearGradient7023-4" />
+    <radialGradient
+       xlink:href="#linearGradient7023-4"
+       id="radialGradient12325-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.2480158e-8,-0.6310967,0.27872335,5.3422869e-7,18.766632,355.93212)"
+       cx="578.3468"
+       cy="804.16577"
+       fx="578.3468"
+       fy="804.16577"
+       r="9.2758904" />
+    <radialGradient
+       xlink:href="#linearGradient6837"
+       id="radialGradient7363-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.48708721,-0.05983969,0.12290973,1.0004691,190.37254,-28.748299)"
+       cx="357.81662"
+       cy="734.01245"
+       fx="357.81662"
+       fy="734.01245"
+       r="10.33958" />
+    <inkscape:perspective
+       id="perspective2135-4"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 148.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2135-9-3"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 148.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2135-6"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 148.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient16035"
+       id="linearGradient823"
+       x1="24.442461"
+       y1="37.141369"
+       x2="163.78967"
+       y2="91.758926"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-10.01637,-16.489936)" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective2135-2" />
+    <inkscape:perspective
+       id="perspective2135-23"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 148.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1180"
+       id="linearGradient1182"
+       x1="135.81766"
+       y1="124.72112"
+       x2="144.16789"
+       y2="119.85941"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-7.143758,-5.5562499)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1190"
+       id="linearGradient1192"
+       x1="135.91687"
+       y1="129.61592"
+       x2="137.05722"
+       y2="125.08492"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-7.143758,-5.5562499)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1200"
+       id="linearGradient1202"
+       x1="134.5278"
+       y1="135.80055"
+       x2="137.38794"
+       y2="131.50107"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-7.143758,-5.5562499)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1210"
+       id="linearGradient1212"
+       x1="132.57651"
+       y1="136.52815"
+       x2="134.47752"
+       y2="135.20523"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-7.143758,-5.5562499)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1222"
+       id="linearGradient1224"
+       x1="174.4912"
+       y1="112.00645"
+       x2="169.22189"
+       y2="107.97117"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-7.143758,-5.5562499)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1190"
+       id="linearGradient1228"
+       gradientUnits="userSpaceOnUse"
+       x1="180.01031"
+       y1="115.56113"
+       x2="174.4912"
+       y2="112.00645"
+       gradientTransform="translate(-7.143758,-5.5562499)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1200"
+       id="linearGradient1232"
+       gradientUnits="userSpaceOnUse"
+       x1="180.01031"
+       y1="115.56113"
+       x2="175.73138"
+       y2="113.08459"
+       gradientTransform="translate(-7.143758,-5.5562499)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="499.91432"
+     inkscape:cy="823.49934"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1447"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1315"
+     inkscape:window-x="3827"
+     inkscape:window-y="-13"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#17297f;fill-opacity:1;stroke:none;stroke-width:0.88;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       width="195.41368"
+       height="270.63095"
+       x="9.1109562"
+       y="1.733984"
+       ry="0.60803896" />
+    <path
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:2.43590283;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 74.700996,172.09182 c -0.269351,-0.0185 -0.562856,0.0819 -0.738973,0.27026 l -5.93452,6.34587 c -0.234823,0.25113 -0.168693,0.56124 0.147794,0.69556 l 8.775692,3.72484 V 172.9977 l -1.994194,-0.84646 c -0.07912,-0.0336 -0.166013,-0.0533 -0.255799,-0.0594 z"
+       id="rect1204-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <path
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.30186322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.756457,84.40745 c 0,0 -0.53904,-1.455413 -1.078084,-1.724934 -0.53904,-0.269522 -2.641303,-0.916369 -3.66548,-0.323425 -1.02418,0.592946 -2.371784,3.827193 -2.803017,6.037264 -0.431233,2.210071 0.862468,4.743566 3.23425,4.527949 2.371782,-0.215614 2.695207,-0.107804 3.342058,-1.158937 0.646848,-1.051133 0.970273,-7.357917 0.970273,-7.357917 z"
+       id="path848-0-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:#f2f2f2;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 67.979124,78.274555 c 0,0 0,-1.039434 1.511906,-1.700892 1.511903,-0.661459 19.560266,-10.299851 19.560266,-10.299851 0,0 18.190104,2.362351 18.142854,3.543525 -0.0473,1.181176 -12.614951,14.174107 -12.614951,14.174107 -7.926272,-3.280089 -16.395622,-5.766448 -26.600075,-5.716889 z"
+       id="path840"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:1.16499996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 104.15937,85.722766 c 0,0 -2.00453,2.939965 -3.87541,-2.405425"
+       id="path876"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:#f9f9f9;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 93.772315,91.001339 14.566185,-12.695304 -0.13363,-6.08038 c -0.0621,-0.268823 -0.11403,-2.185365 -0.96885,-2.472244 -0.99937,-0.295951 -1.47182,0.285112 -1.5034,0.200453 0,0 -11.559398,9.955792 -11.826669,10.690781 -0.267269,0.734991 -0.200454,10.623962 -0.200454,10.623962 z"
+       id="path838"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.758141,77.680202 c 0,0 -1.126445,-0.228129 -1.159854,0.907767 -0.03341,1.135896 0.902036,8.485806 0.902036,8.485806 v 0"
+       id="path828"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:#333333;stroke:none;stroke-width:0.30186322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.360496,90.336905 c 0,0 0.808562,2.371785 1.994455,1.67103 1.185891,-0.700755 1.724932,-4.042814 1.724932,-4.042814 0,0 0.700753,-5.498223 -1.994454,-4.042811 -2.695206,1.455412 -1.724933,6.414595 -1.724933,6.414595 z"
+       id="path846-0-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:2.16499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1115"
+       width="17.628315"
+       height="8.7114697"
+       x="76.850655"
+       y="71.088989"
+       ry="0.60803896"
+       transform="rotate(5.729344)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 259.46094 293.18164 L 258.45117 329.04297 L 348.10156 343.68945 C 348.10156 343.68945 353.15196 344.19394 354.16211 343.94141 C 355.17227 343.68886 354.91992 304.79883 354.91992 304.79883 C 354.91992 304.79883 354.41424 304.29375 350.12109 304.79883 C 345.82794 305.30391 259.46094 293.18164 259.46094 293.18164 z M 265.94336 298.55469 C 266.09196 298.54368 266.24651 298.54765 266.4043 298.56836 L 309.4707 304.2207 C 310.73303 304.38636 311.75 305.54521 311.75 306.81836 L 311.75 328.3457 C 311.75 329.61885 310.73303 330.51136 309.4707 330.3457 L 266.4043 324.69336 C 265.14197 324.5277 264.125 323.36885 264.125 322.0957 L 264.125 300.56836 C 264.125 299.45436 264.90319 298.63177 265.94336 298.55469 z "
+       id="path830"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 108.09657,85.243492 c 0,0 -0.47247,-1.27567 -0.94494,-1.511906 -0.47247,-0.236236 -2.31511,-0.803198 -3.2128,-0.283482 -0.89769,0.519718 -2.07887,3.354538 -2.45685,5.291666 -0.37797,1.937129 0.75596,4.157739 2.83483,3.96875 2.07886,-0.188986 2.36235,-0.09449 2.92931,-1.015809 0.56696,-0.921319 0.85045,-6.449219 0.85045,-6.449219 z"
+       id="path848"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:#666666;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 105.12,90.440663 c 0,0 0.70871,2.078871 1.74815,1.464659 1.03943,-0.614212 1.5119,-3.543528 1.5119,-3.543528 0,0 0.61421,-4.819197 -1.74814,-3.543527 -2.36235,1.27567 -1.51191,5.622396 -1.51191,5.622396 z"
+       id="path846"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:1.16499996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 110.0393,80.511009 c 0,0 -2.6727,-0.534538 -2.93997,-4.276312 -3.69934,0.119307 -6.01356,0.267271 -6.01356,0.267271 l -4.677215,7.483547 c 0,0 -3.207235,8.418988 -0.267269,6.280832"
+       id="path905"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.2143736px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 113.20554,78.830262 c 0,0 -0.52455,-1.175328 -0.90737,-1.366734 -0.38281,-0.191406 -1.39148,-0.384446 -2.17788,-0.08795 -1.0776,0.406296 -1.97076,2.722965 -2.27409,4.287472 -0.30438,1.569887 0.61249,3.368729 2.29686,3.215604 1.68436,-0.153122 1.91405,-0.07656 2.37342,-0.82304 0.45937,-0.746481 0.68906,-5.225357 0.68906,-5.225357 z"
+       id="path848-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssccc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:#666666;stroke:none;stroke-width:0.2143736px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 110.79383,83.041171 c 0,0 0.57422,1.684366 1.4164,1.186712 0.84218,-0.497654 1.22499,-2.871076 1.22499,-2.871076 0,0 0.49765,-3.904663 -1.4164,-2.871076 -1.91405,1.033588 -1.22499,4.55544 -1.22499,4.55544 z"
+       id="path846-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.30186322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.53778,89.146112 c 0,0 -0.53904,-1.455413 -1.07809,-1.724934 -0.53904,-0.269522 -2.641294,-0.916369 -3.665471,-0.323425 -1.02418,0.592946 -2.371784,3.827193 -2.803017,6.037264 -0.431233,2.210071 0.862468,4.743566 3.23425,4.527949 2.371778,-0.215614 2.695198,-0.107804 3.342058,-1.158937 0.64684,-1.051133 0.97027,-7.357917 0.97027,-7.357917 z"
+       id="path848-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:#808080;stroke:none;stroke-width:0.30186322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 99.141822,95.075567 c 0,0 0.808562,2.371785 1.994448,1.67103 1.18589,-0.700755 1.72493,-4.042814 1.72493,-4.042814 0,0 0.70076,-5.498223 -1.99445,-4.042811 -2.695201,1.455412 -1.724928,6.414595 -1.724928,6.414595 z"
+       id="path846-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <ellipse
+       ry="1.7038432"
+       rx="3.4745038"
+       cy="74.745583"
+       cx="86.721909"
+       id="ellipse913"
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.16499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:#009cdd;fill-opacity:0.69019608;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 89.174495,61.534673 82.243097,73.869283 71.218357,73.541816 79.29589,62.298763 Z"
+       id="path953"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.20785975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect915"
+       width="6.9166059"
+       height="9.1796675"
+       x="83.280136"
+       y="65.899582"
+       ry="0.6629768"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <ellipse
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:1.16499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path911"
+       cx="86.721909"
+       cy="66.278908"
+       rx="3.4745038"
+       ry="1.7038432"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1.17451036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect927"
+       width="3.2746754"
+       height="2.3298509"
+       x="85.036354"
+       y="53.103577"
+       ry="0.61800683"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <ellipse
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.94109458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse925"
+       cx="86.52021"
+       cy="52.940567"
+       rx="2.8067269"
+       ry="1.3763757"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <ellipse
+       ry="1.5673984"
+       rx="2.8067269"
+       cy="52.602421"
+       cx="86.52021"
+       id="ellipse957"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1.00427926;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.16499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect921"
+       width="17.464935"
+       height="7.4225979"
+       x="77.575493"
+       y="45.227741"
+       ry="0.60803896"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1.17451036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect929"
+       width="1.9102273"
+       height="12.203981"
+       x="85.691284"
+       y="54.434921"
+       ry="0.61800683"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <circle
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.96413791;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path947"
+       cx="90.275833"
+       cy="48.884464"
+       r="2.6197402"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <circle
+       r="1.6919155"
+       cy="48.884464"
+       cx="90.275833"
+       id="circle949"
+       style="fill:#009cdd;fill-opacity:1;stroke:none;stroke-width:0.62267238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:#009cdd;fill-opacity:0.68969852;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 97.399148,62.517077 89.321615,75.28831 101.98369,78.890451 108.6422,65.02766 Z"
+       id="path955"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:0.81053946;stroke:none;stroke-width:1.16499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect959"
+       width="0.38204545"
+       height="9.551137"
+       x="86.848099"
+       y="56.307064"
+       ry="0.19102272"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.40962592;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 89.16337,48.90104 a 1.1130292,1.1130292 0 0 0 1.112595,1.096574 1.1130292,1.1130292 0 0 0 1.112075,-1.096574 z"
+       id="circle961"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <g
+       id="g1445"
+       transform="matrix(-0.7500879,-0.46304413,-0.43451346,0.70387089,60.261272,8.5846789)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774">
+      <path
+         style="fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -21.695833,42.570053 c 0,0 2.348177,2.546615 -0.479557,4.514453 -2.827735,1.967839 -7.562838,-2.213016 -7.755599,-2.629297 -1.106462,-0.549911 -3.033462,-5.947687 -2.116667,-6.614583 0.83298,-0.605927 1.322917,-0.380338 1.455208,-0.23151 0.142216,0.09712 0.957797,0.401548 0.957797,0.402608 0,1.25938 3.341683,5.153642 7.938818,4.558329 z"
+         id="path1441"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cscscsc" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41565979;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse1443"
+         cx="-30.981054"
+         cy="38.163086"
+         rx="1.3477213"
+         ry="1.3807943" />
+    </g>
+    <ellipse
+       transform="rotate(13.208714)"
+       ry="3.5942674"
+       rx="2.5614319"
+       cy="36.694866"
+       cx="68.260933"
+       id="ellipse1418"
+       style="fill:#ececec;fill-opacity:1;stroke:#ececec;stroke-width:0.41073012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <g
+       id="g1414"
+       transform="translate(137.45104,-2.6458334)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774">
+      <g
+         id="g1391">
+        <circle
+           style="fill:#a2be3a;fill-opacity:1;stroke:none;stroke-width:1.09063828;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1376"
+           cx="-86.107559"
+           cy="52.896061"
+           r="8.2319021" />
+        <path
+           style="fill:#a2be3a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -77.82888,53.55087 c 0,0 -1.333013,4.607057 -0.912064,6.571488 0.42095,1.964433 4.092567,8.769781 4.092567,8.769781 0,0 3.297436,5.028009 1.847499,6.244084 -1.449936,1.216078 -3.016801,-0.35079 -3.016801,-0.35079 0,0 -3.90548,-5.319678 -4.747379,-5.916678 0,0 -2.853104,-2.75956 -4.396584,1.449935 -1.543481,4.209497 3.25067,7.658273 3.25067,8.489148 0,0 0.584648,3.250666 -2.245068,1.777344 -2.829716,-1.473324 -9.84554,-12.137377 -10.710825,-18.662094 -0.865285,-6.524718 0.631423,-11.295481 0.631423,-11.295481 l 5.144939,-2.712783 z"
+           id="path1387"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csccccscssccc" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path1395"
+         d="m -74.536103,69.06847 c -1.574279,1.607283 -3.058867,2.019919 -4.04368,2.079974 1.320522,1.675329 2.762104,3.636989 2.762104,3.636989 0,0 1.566934,1.566444 3.016872,0.350367 1.303337,-1.093124 -1.209853,-5.234631 -1.735296,-6.06733 z m -10.080522,5.555215 c -0.972632,0.746578 -2.344814,1.331283 -3.334679,1.697054 1.546138,2.144651 3.020092,3.756689 3.995105,4.264339 2.829716,1.473322 2.245342,-1.777669 2.245342,-1.777669 0,-0.52025 -1.879288,-2.066639 -2.905768,-4.183724 z"
+         style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         r="1.190625"
+         cy="68.00312"
+         cx="-89.429169"
+         id="path1404"
+         style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:1.16499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1406"
+         d="m -89.561457,68.036198 c 0,0 1.355989,6.217709 5.159374,10.186459"
+         style="fill:none;stroke:#ececec;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <ellipse
+       style="fill:#ececec;fill-opacity:1;stroke:#ececec;stroke-width:0.46499997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1416"
+       cx="58.523048"
+       cy="31.759878"
+       rx="2.8998742"
+       ry="4.0691786"
+       transform="rotate(19.350575)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:#f9f9f9;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 61.969815,48.185131 c -1.93749,3.874978 -15.504401,1.152176 -17.771073,-2.973074 -1.648033,-2.99935 3.090036,-4.079981 2.944296,-3.341171 -0.0181,0.09178 1.618166,7.276105 12.160763,5.425572 4.472121,-0.784988 2.28895,1.325943 2.666014,0.888673 z"
+       id="path1420"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <g
+       id="g1439"
+       transform="translate(66.410416,4.365625)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774">
+      <path
+         sodipodi:nodetypes="cscscsc"
+         inkscape:connector-curvature="0"
+         id="path1422"
+         d="m -21.695833,42.570053 c 0,0 2.348177,2.546615 -0.479557,4.514453 -2.827735,1.967839 -7.562838,-2.213016 -7.755599,-2.629297 -1.106462,-0.549911 -3.033462,-5.947687 -2.116667,-6.614583 0.83298,-0.605927 1.322917,-0.380338 1.455208,-0.23151 0.142216,0.09712 0.957797,0.401548 0.957797,0.402608 0,1.25938 3.341683,5.153642 7.938818,4.558329 z"
+         style="fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <ellipse
+         ry="1.3807943"
+         rx="1.3477213"
+         cy="38.163086"
+         cx="-30.981054"
+         id="path1435"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41565979;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <ellipse
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.46499997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1453"
+       cx="-61.085678"
+       cy="-47.547523"
+       rx="1.1079427"
+       ry="1.0583333"
+       transform="scale(-1)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <ellipse
+       transform="rotate(19.166932)"
+       ry="11.96341"
+       rx="13.270337"
+       cy="15.503001"
+       cx="62.986988"
+       id="ellipse1457"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.49973926;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <ellipse
+       style="fill:#009cdd;fill-opacity:1;stroke:none;stroke-width:0.46499997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1447"
+       cx="64.661018"
+       cy="16.338671"
+       rx="12.347852"
+       ry="11.131776"
+       transform="rotate(19.166932)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.46499997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1449"
+       cx="56.932758"
+       cy="11.929694"
+       rx="4.2664061"
+       ry="4.5971355"
+       transform="rotate(23.93832)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 43.381185,35.029091 c -0.34303,-1.200605 -1.027449,5.25874 1.964431,8.231902 2.974579,2.955969 8.044813,4.677216 8.044813,4.677216 -1.012045,0.885539 -10.431461,-8.026163 -5.986839,-11.786586 3.447146,-2.916497 -4.022405,-1.122532 -4.022405,-1.122532 z"
+       id="path1451"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 45.32223,32.082446 c -0.187952,2.52e-4 -1.82343,-3.18993 5.144939,-6.361016 7.276238,-3.1951 14.457248,-0.130375 16.370257,6.080383 1.122532,3.835315 -6.697121,-10.872805 -18.054055,0.561264 -8.556614,8.614731 -3.461141,-0.161138 -3.461141,-0.280627 z"
+       id="path1455"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccssc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <g
+       id="g1511"
+       transform="matrix(0.2184866,0.09346843,-0.09346843,0.2184866,47.559122,34.050332)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774">
+      <path
+         id="path1500"
+         transform="scale(0.26458333)"
+         d="m -132.85938,246.06055 a 15.556349,15.556349 0 0 0 -15.55664,15.55664 15.556349,15.556349 0 0 0 15.55664,15.55664 15.556349,15.556349 0 0 0 15.55665,-15.55664 15.556349,15.556349 0 0 0 -15.55665,-15.55664 z m 0,7 a 8.5563482,8.5563482 0 0 1 8.55665,8.55664 8.5563482,8.5563482 0 0 1 -8.55665,8.55664 8.5563482,8.5563482 0 0 1 -8.55664,-8.55664 8.5563482,8.5563482 0 0 1 8.55664,-8.55664 z"
+         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:8.18267727;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="csscssscscscscscc"
+         inkscape:connector-curvature="0"
+         id="path1504"
+         d="m -31.055453,69.822136 c 0,0 -0.198437,-26.656771 0,-27.582812 0.198438,-0.926042 -0.463021,-1.918229 1.719792,-4.828646 2.182812,-2.910417 5.027083,-5.027083 5.093229,-6.416146 0.0748,-0.436493 1.299566,-4.631018 -5.225521,-8.532813 -1.9504,-1.166277 0.40142,3.027017 1.256771,5.357813 0.483798,1.318328 -1.43282,3.159475 -2.218031,3.807439 -1.549495,1.278659 -4.528844,-1.492334 -4.528844,-1.492334 0,0 -0.926041,-6.283855 -0.396875,-7.871355 0.529167,-1.5875 -1.984375,0.06615 -1.984375,0.06615 0,0 -2.447396,3.96875 -2.38125,8.268229 0.06615,4.299479 2.910417,9.855729 2.910417,9.855729 0,0 0.661458,0.330729 0.330729,4.101042 -0.330729,3.770312 -3.042708,24.209374 -2.778125,24.407812 0.13091,0.09818 2.074021,-3.262163 4.07086,-3.073483 2.039013,0.192665 4.131223,3.933379 4.131223,3.933379 z"
+         style="fill:#cccccc;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffe680;stroke-width:1.06118774;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1174-2-1-6-4"
+       cx="48.622723"
+       cy="63.400162"
+       r="0" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffe680;stroke-width:1.06118774;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1174-2-1-6-0-9"
+       cx="48.489079"
+       cy="79.676071"
+       r="0" />
+    <g
+       style="display:inline"
+       transform="matrix(0.26458333,0,0,0.26458333,-138.57018,-228.1379)"
+       id="g1127" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffe680;stroke-width:1.06118774;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1174-2-1-6-4-9"
+       cx="87.144623"
+       cy="53.287762"
+       r="0" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffe680;stroke-width:1.06118774;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1174-2-1-6-0-9-27"
+       cx="87.010986"
+       cy="69.563652"
+       r="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot15576"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-311.47672,-56.200772)"><flowRegion
+         id="flowRegion15578"><rect
+           id="rect15580"
+           width="32.39682"
+           height="11.724563"
+           x="87.625679"
+           y="153.39198" /></flowRegion><flowPara
+         id="flowPara15582" /></flowRoot>    <g
+       id="g1445-7"
+       transform="matrix(0.87291864,0.12269792,0.11513783,-0.81913335,93.809434,206.09318)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14">
+      <path
+         style="fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -18.268749,38.172476 c 0,0 3.319716,0.481446 2.214502,3.882304 -1.105214,3.400858 -7.251101,3.184629 -7.642674,2.981258 -1.190778,0.287117 -5.81555,-2.723438 -5.473822,-3.848893 0.310486,-1.022563 0.827469,-1.163858 1.017572,-1.132499 0.168243,-0.016 0.987996,-0.307426 0.988605,-0.306587 0.723546,0.995746 5.60305,1.894515 8.895817,-1.575583 z"
+         id="path1441-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cscscsc" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41605371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse1443-9"
+         cx="-46.807106"
+         cy="13.54148"
+         rx="1.3815572"
+         ry="1.3495313"
+         transform="matrix(0.77129996,-0.63647182,0.58783531,0.80898062,0,0)" />
+    </g>
+    <ellipse
+       transform="matrix(-0.9833247,-0.18185857,-0.18185857,0.9833247,0,0)"
+       ry="3.5942674"
+       rx="2.5614319"
+       cy="155.50636"
+       cx="-113.6871"
+       id="ellipse1418-0"
+       style="fill:#ececec;fill-opacity:1;stroke:#ececec;stroke-width:0.41073012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <g
+       id="g1391-6"
+       transform="matrix(-0.91575553,-0.401736,-0.401736,0.91575553,32.498484,92.277126)"
+       style="fill:#009cdd;fill-opacity:1"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14">
+      <circle
+         r="8.2319021"
+         cy="52.896061"
+         cx="-86.107559"
+         id="path1376-6"
+         style="fill:#009cdd;fill-opacity:1;stroke:none;stroke-width:1.09063828;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csccccscssccc"
+         inkscape:connector-curvature="0"
+         id="path1387-5"
+         d="m -77.82888,53.55087 c 0,0 -1.333013,4.607057 -0.912064,6.571488 0.42095,1.964433 4.092567,8.769781 4.092567,8.769781 0,0 3.297436,5.028009 1.847499,6.244084 -1.449936,1.216078 -3.016801,-0.35079 -3.016801,-0.35079 0,0 -3.90548,-5.319678 -4.747379,-5.916678 0,0 -2.853104,-2.75956 -4.396584,1.449935 -1.543481,4.209497 3.25067,7.658273 3.25067,8.489148 0,0 0.584648,3.250666 -2.245068,1.777344 -2.829716,-1.473324 -9.84554,-12.137377 -10.710825,-18.662094 -0.865285,-6.524718 0.631423,-11.295481 0.631423,-11.295481 l 5.144939,-2.712783 z"
+         style="fill:#009cdd;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 73.008042,185.4708 c 0.795951,2.10432 1.9897,3.0786 2.867422,3.52923 -1.882316,1.0037 -3.990522,2.22096 -3.990522,2.22096 0,0 -2.064225,0.80499 -2.903472,-0.89113 -0.754391,-1.52464 3.210869,-4.30761 4.026572,-4.85906 z m 6.999564,9.13692 c 0.590765,1.07443 1.612452,2.16113 2.371983,2.89375 -2.277468,1.34284 -4.274864,2.22693 -5.371678,2.30011 -3.183215,0.21241 -1.342031,-2.52994 -1.342031,-2.52994 0.209003,-0.47642 2.551212,-1.13756 4.341726,-2.66392 z"
+       id="path1395-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <circle
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:1.16499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1404-1"
+       cx="-156.26088"
+       cy="139.45059"
+       r="1.190625"
+       transform="matrix(-0.91575553,-0.401736,-0.401736,0.91575553,0,0)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <path
+       style="fill:none;stroke:#ececec;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 87.182293,190.56171 c 0,0 -3.739631,5.14915 -8.816992,7.2556"
+       id="path1406-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <path
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.39427781;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 77.395325,173.37494 v 10.13117 l 6.505282,2.85771 c 0.305762,0.13432 0.734697,0.0403 0.961563,-0.21084 l 5.732934,-6.34639 c 0.226866,-0.25112 0.163475,-0.56124 -0.142287,-0.69556 z"
+       id="rect1212"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <path
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:2.43590283;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 76.927603,172.9977 v 10.13117 l 6.733439,2.8577 c 0.316487,0.13433 0.760466,0.0403 0.995289,-0.21084 l 5.934003,-6.34638 c 0.234823,-0.25113 0.169209,-0.56124 -0.147277,-0.69557 z"
+       id="rect1204"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <ellipse
+       style="fill:#ececec;fill-opacity:1;stroke:#ececec;stroke-width:0.46499997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1416-3"
+       cx="-109.54888"
+       cy="167.77318"
+       rx="2.8998742"
+       ry="4.0691786"
+       transform="matrix(-0.9971376,-0.07560829,-0.07560829,0.9971376,0,0)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <path
+       style="fill:#f9f9f9;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 81.200207,169.1494 c 0.217548,4.32689 13.735371,7.28378 17.468348,4.41666 2.714135,-2.0846 -1.190646,-4.97764 -1.35399,-4.24253 -0.02031,0.0913 -4.404915,6.01307 -13.315934,0.0831 -3.78001,-2.51547 -2.628797,0.29469 -2.798424,-0.25722 z"
+       id="path1420-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <ellipse
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.46499997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1453-3"
+       cx="143.19708"
+       cy="-121.64083"
+       rx="1.1079427"
+       ry="1.0583333"
+       transform="matrix(0.91575553,0.401736,0.401736,-0.91575553,0,0)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <ellipse
+       transform="matrix(-0.99737136,0.07245945,0.07245945,0.99737136,0,0)"
+       ry="11.96341"
+       rx="13.270337"
+       cy="167.13719"
+       cx="-79.388733"
+       id="ellipse1457-7"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.49973926;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <ellipse
+       style="fill:#a2be3a;fill-opacity:1;stroke:none;stroke-width:0.46499997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1447-0"
+       cx="-77.714706"
+       cy="167.97287"
+       rx="12.347852"
+       ry="11.131776"
+       transform="matrix(-0.99737136,0.07245945,0.07245945,0.99737136,0,0)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.46499994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1449-4"
+       cx="-72.859367"
+       cy="174.96335"
+       rx="4.2664061"
+       ry="4.5971355"
+       transform="matrix(-0.9878878,0.15516992,0.15516992,0.9878878,0,0)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.99937,162.92107 c 0.6423,-1.07079 -0.36971,5.3454 -4.029577,7.44216 -3.63871,2.08463 -8.981749,2.43386 -8.981749,2.43386 0.748143,1.11746 12.154376,-5.05034 8.83544,-9.83366 -2.574079,-3.70983 4.175886,-0.0424 4.175886,-0.0424 z"
+       id="path1451-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:0.26077482px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.781552,158.77967 c 4.914298,2.49319 3.306008,-3.5579 -3.798471,-7.65437 -7.084187,-3.36689 -15.296676,0.69051 -17.193664,6.82388 -1.114059,3.78905 7.381633,-10.25469 18.40729,1.41805 8.307023,8.79456 6.473493,-0.99688 6.355173,-0.98443 z"
+       id="path1455-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccssc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <g
+       id="g1511-7"
+       transform="matrix(-0.2184866,0.09346843,0.09346843,0.2184866,130.36422,169.42241)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+       inkscape:export-xdpi="140.8774"
+       inkscape:export-ydpi="140.8774" />
+    <rect
+       transform="matrix(0.92052298,0.39068842,-0.68299639,0.73042175,0,0)"
+       ry="0.32940987"
+       y="140.12129"
+       x="186.70171"
+       height="5.2705507"
+       width="12.818991"
+       id="rect1206"
+       style="fill:#a2be3a;fill-opacity:1;stroke:none;stroke-width:1.3341521;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <g
+       id="g1439-9"
+       transform="matrix(0.91575552,0.40173601,0.40173601,-0.91575552,98.592823,225.50204)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14">
+      <path
+         sodipodi:nodetypes="cscscsc"
+         inkscape:connector-curvature="0"
+         id="path1422-9"
+         d="m -21.695833,42.570053 c 0,0 2.348177,2.546615 -0.479557,4.514453 -2.827735,1.967839 -7.562838,-2.213016 -7.755599,-2.629297 -1.106462,-0.549911 -3.033462,-5.947687 -2.116667,-6.614583 0.83298,-0.605927 1.322917,-0.380338 1.455208,-0.23151 0.142216,0.09712 0.957797,0.401548 0.957797,0.402608 0,1.25938 3.341683,5.153642 7.938818,4.558329 z"
+         style="fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <ellipse
+         ry="1.3807943"
+         rx="1.3477213"
+         cy="38.163086"
+         cx="-30.981054"
+         id="path1435-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41565979;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#ff6600;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 84.232298,186.60627 c 0,0 -3.635456,-7.75654 -4.824227,-10.12397 -0.121066,-0.2411 -0.116904,-0.41701 -0.22459,-0.60912 -1.5731,-2.80648 -15.518119,-5.80702 -15.518119,-5.80702 0,0 2.462586,9.05599 5.200042,10.54727 2.737458,1.49127 15.366894,5.99284 15.366894,5.99284 z"
+       id="path1210"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssccc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       id="ellipse4557"
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.28296608;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ry="1.6945009"
+       rx="4.2094951"
+       cy="45.220768"
+       cx="80.247673" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       style="opacity:1;fill:#ff7f2a;fill-opacity:1;stroke:none;stroke-width:0.23678745;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path817"
+       ry="17.815109"
+       rx="16.450241"
+       cy="43.194466"
+       cx="81.963867" />
+    <g
+       style="display:inline"
+       transform="matrix(0.09804097,0,0,0.09804097,147.76325,16.329289)"
+       id="g1127-4" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffe680;stroke-width:0.39322159;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1174-2-1-6-4-7"
+       cx="231.40157"
+       cy="120.61116"
+       r="0" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffe680;stroke-width:0.39322159;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1174-2-1-6-0-9-7"
+       cx="231.35204"
+       cy="126.64217"
+       r="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot15576-2"
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.37054857,0,0,0.37054857,83.692987,80.040342)"><flowRegion
+         id="flowRegion15578-0"><rect
+           id="rect15580-8"
+           width="32.39682"
+           height="11.724563"
+           x="87.625679"
+           y="153.39198" /></flowRegion><flowPara
+         id="flowPara15582-1" /></flowRoot>    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffe680;stroke-width:0.39322159;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1174-2-1-6-4-0"
+       cx="202.84462"
+       cy="157.43953"
+       r="0" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffe680;stroke-width:0.39322159;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1174-2-1-6-0-9-0"
+       cx="202.79509"
+       cy="163.47055"
+       r="0" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffe680;stroke-width:0.39322159;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1174-2-1-6-4-6"
+       cx="206.49773"
+       cy="141.43478"
+       r="0" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffe680;stroke-width:0.39322159;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1174-2-1-6-0-9-09"
+       cx="206.4482"
+       cy="147.46581"
+       r="0" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffe680;stroke-width:0.39322159;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1174-2-1-6-4-77"
+       cx="112.55787"
+       cy="126.00053"
+       r="0" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffe680;stroke-width:0.39322159;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1174-2-1-6-0-9-06"
+       cx="112.50835"
+       cy="132.03154"
+       r="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1548"
+       d="m 47.329523,158.52208 -1.822736,10.81993 25.73171,-3.04316 -4.296391,-10.09626 z"
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.32774556px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <ellipse
+       transform="matrix(0.42392569,-0.90569697,0.11744664,0.99307919,0,0)"
+       ry="6.3605385"
+       rx="3.8424516"
+       cy="195.67207"
+       cx="46.237091"
+       id="ellipse1522"
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:2.53697443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <ellipse
+       transform="matrix(0.42392569,-0.90569697,0.11744664,0.99307919,0,0)"
+       ry="6.3605385"
+       rx="3.8424516"
+       cy="196.83849"
+       cx="47.411182"
+       id="ellipse1524"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.53697443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <ellipse
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.53697443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse1526"
+       cx="49.118935"
+       cy="198.28949"
+       rx="3.8424516"
+       ry="6.3605385"
+       transform="matrix(0.42392569,-0.90569697,0.11744664,0.99307919,0,0)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <ellipse
+       transform="matrix(0.42392569,-0.90569697,0.11744664,0.99307919,0,0)"
+       ry="6.3605385"
+       rx="3.8424516"
+       cy="199.74045"
+       cx="50.826687"
+       id="ellipse1528"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.53697443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <rect
+       ry="0.40878555"
+       y="141.52206"
+       x="28.375383"
+       height="22.390327"
+       width="0.99432904"
+       id="rect1556"
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.67058492;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-6.7447638)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <ellipse
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:2.53697443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1520"
+       cx="52.534443"
+       cy="201.19142"
+       rx="3.8424516"
+       ry="6.3605385"
+       transform="matrix(0.42392569,-0.90569697,0.11744664,0.99307919,0,0)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.67058492;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1074"
+       width="0.99432904"
+       height="22.390327"
+       x="47.288151"
+       y="141.52206"
+       ry="0.40878555"
+       transform="rotate(-6.7447638)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.21596143;stroke-opacity:1"
+       d="m 46.093476,151.83492 -0.156191,0.84609 23.151106,-2.73797 -0.758666,-0.7379 z"
+       id="path4823"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <path
+       style="fill:none;stroke:#fafafa;stroke-width:0.2150213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 62.679443,149.02857 c 0,0 -1.496228,-9.93668 -8.601124,-3.53616 -7.085596,6.38315 -7.890679,12.92408 -11.565332,10.55313"
+       id="path4830"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <rect
+       style="fill:#009cdd;fill-opacity:1;stroke:none;stroke-width:0.14040963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4748"
+       width="2.2917264"
+       height="1.0453483"
+       x="41.034485"
+       y="160.15511"
+       transform="rotate(-6.7447638)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <rect
+       style="fill:#009cdd;fill-opacity:1;stroke:none;stroke-width:0.14040963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4746"
+       width="2.8546033"
+       height="2.9350145"
+       x="40.753044"
+       y="157.82317"
+       transform="rotate(-6.7447638)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <rect
+       style="fill:#3ac5ff;fill-opacity:1;stroke:none;stroke-width:0.14040963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4796"
+       width="1.0686498"
+       height="1.6550663"
+       x="42.257557"
+       y="158.50005"
+       ry="0.22743766"
+       transform="rotate(-6.7447638)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <rect
+       style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.15545353;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4736"
+       width="4.9855042"
+       height="4.9855042"
+       x="39.728077"
+       y="154.2509"
+       ry="0.28429711"
+       transform="rotate(-6.7447638)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <rect
+       style="fill:#009cdd;fill-opacity:1;stroke:none;stroke-width:0.14040963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4738"
+       width="5.7712312"
+       height="2.8145413"
+       x="39.30983"
+       y="155.31886"
+       transform="rotate(-6.7447638)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <circle
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.14040963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4740"
+       cx="42.229893"
+       cy="156.58212"
+       r="2.1688571"
+       transform="rotate(-6.7447638)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <circle
+       r="0.26406649"
+       cy="154.81949"
+       cx="40.268242"
+       id="circle4742"
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.0170954;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-6.7447638)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <circle
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.0170954;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4744"
+       cx="44.106255"
+       cy="158.60065"
+       r="0.26406649"
+       transform="rotate(-6.7447638)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <path
+       style="fill:#94ad35;fill-opacity:1;stroke:none;stroke-width:0.22515179px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.10089,159.11312 -1.39122,7.1175 18.520818,-2.19036 -3.013123,-6.59663 z"
+       id="path4836-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <rect
+       style="fill:#a2be3a;fill-opacity:1;stroke:none;stroke-width:0.14040963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4876-5"
+       width="18.649891"
+       height="1.1554735"
+       x="28.849331"
+       y="170.80095"
+       ry="0"
+       transform="rotate(-6.7447638)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.84234452;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1550"
+       width="0.99432904"
+       height="27.231092"
+       x="25.303192"
+       y="146.28355"
+       ry="0.49716452"
+       transform="rotate(-6.7447638)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <rect
+       ry="0.49716452"
+       y="146.28355"
+       x="50.219902"
+       height="27.231092"
+       width="0.99432904"
+       id="rect1552"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.84234452;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-6.7447638)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <path
+       style="fill:none;stroke:#cccccc;stroke-width:0.73608685;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 45.377867,137.2603 -2.671927,5.20463 25.003864,-2.92872 -3.535351,-4.61226 -18.796588,2.33634 0.15372,-0.0182"
+       id="path1078"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <rect
+       ry="0"
+       y="173.05244"
+       x="25.246899"
+       height="1.1554735"
+       width="25.973385"
+       id="rect1080"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.16570021;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-6.7447638)"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.31622747px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 54.69079,160.17233 c 0,0 0.50591,-1.71484 3.81415,-1.30769 3.308244,0.40716 2.330048,-3.06997 2.330048,-3.06997"
+       id="path4817"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <path
+       sodipodi:type="star"
+       style="fill:#009cdd;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4750"
+       sodipodi:sides="3"
+       sodipodi:cx="41.121422"
+       sodipodi:cy="19.061686"
+       sodipodi:r1="2.4735932"
+       sodipodi:r2="1.3465424"
+       sodipodi:arg1="-2.6437695"
+       sodipodi:arg2="-1.5965719"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 38.948063,17.88051 4.282966,-0.110421 -2.045856,3.764368 z"
+       inkscape:transform-center-x="-0.47361008"
+       transform="matrix(0.5384705,-0.05191116,0.01373655,0.29741648,38.436082,151.95542)"
+       inkscape:transform-center-y="0.014463868"
+       inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
+       inkscape:export-xdpi="140.14"
+       inkscape:export-ydpi="140.14" />
+    <g
+       id="g1447">
+      <g
+         id="g1502"
+         transform="translate(18.785416,-85.724998)">
+        <path
+           style="fill:#009cdd;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 139.88055,115.10943 c 0,0 -1.16969,-3.37031 -2.95563,-3.53567 -1.78594,-0.16536 -1.78594,-0.16536 -1.78594,-0.16536 0,0 2.91042,0.49609 2.51354,1.15755 -0.39687,0.66146 -2.05052,-0.4961 -2.05052,-0.4961 0,0 -1.52135,-0.82682 -2.94349,-0.62838 -1.42213,0.19844 -5.29166,0.82682 -6.35,3.70417 -1.05833,2.87734 2.18282,10.21953 2.28203,11.70781 0.0992,1.48828 -1.05833,4.20026 -2.61276,2.18281 -1.55442,-2.01745 -0.42994,-2.08359 -0.42994,-2.08359 0,0 -2.71198,-0.39688 -1.35599,3.37343 1.35599,3.77032 4.72942,2.01745 4.72942,2.01745 0,0 -0.56224,2.14974 -1.4552,1.81901 -0.89297,-0.33073 -1.38907,-0.85989 -1.38907,-0.85989 0,0 0,1.81901 1.71979,1.75286 1.7198,-0.0661 4.00183,-1.45521 4.53099,-3.9026 0.52917,-2.4474 1.02526,-12.40235 5.82084,-14.51901 4.79557,-2.11667 2.74505,1.38906 2.74505,1.38906 0,0 1.5875,-0.92604 1.5875,-1.62057 0,-0.69454 -1.28984,-1.2237 -1.28984,-1.2237 z"
+           id="path1139"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="csccscssccc"
+           inkscape:connector-curvature="0"
+           id="path1065"
+           d="m 159.45471,124.58084 c 0,0 -6.43118,-1.1927 -7.88111,1.19268 -1.04353,1.71676 -0.3508,7.41339 -0.3508,7.41339 0.85491,6.01855 -0.86409,1.86511 -3.5313,-0.0702 0,0 -2.24506,-2.43215 -3.78854,1.77735 -1.54348,4.20949 3.25067,7.65827 3.25067,8.48914 0,0 0.58465,3.25067 -2.24507,1.77735 -2.82972,-1.47333 -9.84554,-12.13738 -10.71083,-18.6621 -0.86528,-6.52471 5.68282,-11.38902 5.68282,-11.38902 5.78644,-3.13578 12.46237,1.81901 16.1364,-0.51449 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 165.04816,117.15874 c 0,0 0.62205,4.63799 -1.89897,5.83666 -3.29496,1.56666 -0.91541,10.71391 -0.81382,10.72068 0,0 1.66042,6.43117 0.21048,7.64725 -1.44993,1.21608 -2.08136,-2.03459 -2.08136,-2.03459 0,0 -1.47333,-4.75841 -2.31523,-5.35541 0,0 -1.59025,-2.75956 -3.13373,1.44994 -1.54348,4.20949 3.25067,7.65827 3.25067,8.48914 0,0 0.58465,3.25067 -2.24507,1.77735 -2.82972,-1.47333 -9.84554,-12.13738 -10.71083,-18.6621 -0.86528,-6.52471 5.68282,-11.38902 5.68282,-11.38902 5.78644,-3.13578 7.41098,-4.63555 11.08501,-6.96905 z"
+           id="path1091"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csccccscssccc" />
+        <ellipse
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.84162855;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1093"
+           cx="163.61317"
+           cy="115.54177"
+           rx="7.4449401"
+           ry="7.0480652" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24959208px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 167.48751,109.62234 c 0,0 10.23904,9.54153 8.15793,13.65748 -2.0811,4.11595 -4.66167,3.64822 -4.66167,3.64822 l -12.16587,-5.70402 z"
+           id="path1095"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <circle
+           r="2.2304838"
+           cy="116.86349"
+           cx="166.22417"
+           id="circle949-7"
+           style="fill:#009cdd;fill-opacity:1;stroke:none;stroke-width:0.82088065;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+           inkscape:export-xdpi="140.8774"
+           inkscape:export-ydpi="140.8774" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.54001749;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 164.75835,116.88533 a 1.4673272,1.4673272 0 0 0 1.46675,1.44564 1.4673272,1.4673272 0 0 0 1.46608,-1.44564 z"
+           id="circle961-9"
+           inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+           inkscape:export-xdpi="140.8774"
+           inkscape:export-ydpi="140.8774" />
+        <path
+           style="fill:#808080;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 170.17788,112.35312 c 0,0 -7.14274,-1.10385 -8.63944,1.42185 -1.54984,3.13735 -3.44702,9.50871 1.71716,9.38253 0,0 -0.9752,-0.14033 -1.77734,6.8755 1.62273,2.1933 -9.81014,-6.482 -8.93349,-8.88671 0.0935,-1.54348 -0.56126,-6.03361 -0.56126,-6.03361 0,0 5.68282,-3.95224 6.50133,-4.72399 0.81851,-0.77174 6.78196,-1.07576 6.78196,-1.07576 l 2.22071,0.30941 z"
+           id="path1079"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc" />
+        <circle
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.86500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1131"
+           cx="172.01486"
+           cy="122.28939"
+           r="0.52916664" />
+        <path
+           style="fill:#666666;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 172.49934,122.29171 c 0.036,0.0312 0.0884,-0.41333 -0.5254,-0.68711 -0.28868,-0.17635 -0.66796,-0.0909 -0.66811,-0.0906 0.007,-0.007 0.55998,0.29243 0.57988,0.4308 0.0344,0.12395 0.36716,0.35908 0.36716,0.35908 z"
+           id="path1133"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:#808080;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 170.17788,112.35312 c 0.406,0.203 -0.7031,-2.47967 -3.83532,-3.43775 -2.64199,-0.80813 -3.81193,-0.51449 -3.81193,-0.51449 -1.11812,0.19355 -2.16929,0.72187 -3.22728,1.21607 l -1.21608,1.12253 8.0682,-0.0701 2.61924,1.19269 z"
+           id="path1083"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cscccccc" />
+        <circle
+           style="fill:#009cdd;fill-opacity:0.69019608;stroke:none;stroke-width:0.86500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1073"
+           cx="165.26801"
+           cy="117.26229"
+           r="13.361458" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1101"
+           d="m 167.34744,106.4502 c 0,0 1.50597,-0.72179 1.27066,-4.74309 -0.2353,-4.02132 -3.24725,2.47465 -3.24725,2.47465 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.1970295px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0.96499997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 159.30335,109.61695 c 0,0 1.07576,-5.3788 5.00462,-5.8699 3.92887,-0.49111 4.06918,-0.23387 4.06918,-0.23387"
+           id="path1075"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#a2be3a;fill-opacity:1;stroke:none;stroke-width:0.27560848px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 162.07813,102.41492 c 0,0 2.86127,-2.347 4.91924,-0.51995 2.05798,1.82704 3.16294,3.05324 3.64823,2.99431 1.25384,-0.15226 0.90515,-1.47178 0.32741,-1.87779 -0.46773,-0.40601 1.54348,0.60902 1.59025,0.96427 -0.11537,-0.20784 1.70706,4.12355 -2.5257,3.04507 -5.10101,-1.2997 -1.44993,0.50751 -1.44993,0.50751 0,0 0.74835,0.50751 1.26284,0.30451 0.5145,-0.203 -4.63149,2.66974 -5.56589,-0.65976 -0.93439,-3.32949 -2.20645,-4.75817 -2.20645,-4.75817 z"
+           id="path1141"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsccscccc" />
+        <path
+           style="fill:#ffffff;stroke:none;stroke-width:0.25549293px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 160.37713,106.71034 c 0,0 -1.94445,-0.93998 -1.64062,-6.17696 0.30381,-5.23701 4.19274,3.22276 4.19274,3.22276 z"
+           id="path1099"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#cccccc;stroke-width:1.66499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 151.98351,115.11268 c 0,0 -1.96444,10.28988 9.49475,14.92032"
+           id="path1077"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="ccsccscccc"
+           inkscape:connector-curvature="0"
+           id="path1214"
+           d="m 162.07813,102.41492 c 0,0 2.86127,-2.347 4.91924,-0.51995 2.05798,1.82704 3.16294,3.05324 3.64823,2.99431 1.25384,-0.15226 0.90515,-1.47178 0.32741,-1.87779 -0.46773,-0.40601 1.54348,0.60902 1.59025,0.96427 -0.11537,-0.20784 1.70706,4.12355 -2.5257,3.04507 -5.10101,-1.2997 -1.44993,0.50751 -1.44993,0.50751 0,0 0.74835,0.50751 1.26284,0.30451 0.5145,-0.203 -4.63149,2.66974 -5.56589,-0.65976 -0.93439,-3.32949 -2.20645,-4.75817 -2.20645,-4.75817 z"
+           style="fill:#009cdd;fill-opacity:1;stroke:none;stroke-width:0.27560848px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:#a2be3a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 143.89555,138.33591 c -1.1654,1.35845 -2.76943,1.61673 -3.98787,1.1038 1.89505,2.86367 3.81513,5.10328 5.00073,5.72059 2.82972,1.47332 2.24534,-1.77716 2.24534,-1.77716 0,-0.58854 -2.40364,-2.49167 -3.2582,-5.04723 z"
+           id="path1098"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path1103"
+           d="m 155.008,138.86517 c -0.63198,1.99857 -2.0926,2.67215 -3.33306,2.1328 1.89505,2.86367 3.16031,4.07429 4.34592,4.69159 2.82972,1.47332 2.24534,-1.77715 2.24534,-1.77715 0,-0.58854 -2.40364,-2.49167 -3.2582,-5.04724 z"
+           style="fill:#a2be3a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:#a2be3a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 162.98689,137.10446 c -1.01807,1.00684 -2.1916,0.99211 -2.99206,0.80667 0.27843,0.80354 0.46974,1.41748 0.46974,1.41748 0,0 0.63159,3.25058 2.08152,2.0345 0.72215,-0.60567 0.67234,-2.50455 0.4408,-4.25865 z"
+           id="path1105"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1174"
+           d="m 139.88055,115.10943 c 0,0 -1.16969,-3.37031 -2.95563,-3.53567 -1.78594,-0.16536 -1.78594,-0.16536 -1.78594,-0.16536 0,0 2.91042,0.49609 2.51354,1.15755 -0.39687,0.66146 -2.05052,-0.4961 -2.05052,-0.4961 0,0 -1.52135,-0.82682 -2.94349,-0.62838 -1.42213,0.19844 -5.29166,0.82682 -6.35,3.70417 -1.05833,2.87734 2.18282,10.21953 2.28203,11.70781 0.0992,1.48828 -1.05833,4.20026 -2.61276,2.18281 -1.55442,-2.01745 -0.42994,-2.08359 -0.42994,-2.08359 0,0 -2.71198,-0.39688 -1.35599,3.37343 1.35599,3.77032 4.72942,2.01745 4.72942,2.01745 0,0 -0.56224,2.14974 -1.4552,1.81901 -0.89297,-0.33073 -1.38907,-0.85989 -1.38907,-0.85989 0,0 0,1.81901 1.71979,1.75286 1.7198,-0.0661 4.00183,-1.45521 4.53099,-3.9026 0.52917,-2.4474 1.02526,-12.40235 5.82084,-14.51901 4.79557,-2.11667 2.74505,1.38906 2.74505,1.38906 0,0 1.5875,-0.92604 1.5875,-1.62057 0,-0.69454 -1.28984,-1.2237 -1.28984,-1.2237 z"
+           style="fill:url(#linearGradient1182);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:url(#linearGradient1192);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 139.88055,115.10943 c 0,0 -1.16969,-3.37031 -2.95563,-3.53567 -1.78594,-0.16536 -1.78594,-0.16536 -1.78594,-0.16536 0,0 2.91042,0.49609 2.51354,1.15755 -0.39687,0.66146 -2.05052,-0.4961 -2.05052,-0.4961 0,0 -1.52135,-0.82682 -2.94349,-0.62838 -1.42213,0.19844 -5.29166,0.82682 -6.35,3.70417 -1.05833,2.87734 2.18282,10.21953 2.28203,11.70781 0.0992,1.48828 -1.05833,4.20026 -2.61276,2.18281 -1.55442,-2.01745 -0.42994,-2.08359 -0.42994,-2.08359 0,0 -2.71198,-0.39688 -1.35599,3.37343 1.35599,3.77032 4.72942,2.01745 4.72942,2.01745 0,0 -0.56224,2.14974 -1.4552,1.81901 -0.89297,-0.33073 -1.38907,-0.85989 -1.38907,-0.85989 0,0 0,1.81901 1.71979,1.75286 1.7198,-0.0661 4.00183,-1.45521 4.53099,-3.9026 0.52917,-2.4474 1.02526,-12.40235 5.82084,-14.51901 4.79557,-2.11667 2.74505,1.38906 2.74505,1.38906 0,0 1.5875,-0.92604 1.5875,-1.62057 0,-0.69454 -1.28984,-1.2237 -1.28984,-1.2237 z"
+           id="path1184"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1194"
+           d="m 139.88055,115.10943 c 0,0 -1.16969,-3.37031 -2.95563,-3.53567 -1.78594,-0.16536 -1.78594,-0.16536 -1.78594,-0.16536 0,0 2.91042,0.49609 2.51354,1.15755 -0.39687,0.66146 -2.05052,-0.4961 -2.05052,-0.4961 0,0 -1.52135,-0.82682 -2.94349,-0.62838 -1.42213,0.19844 -5.29166,0.82682 -6.35,3.70417 -1.05833,2.87734 2.18282,10.21953 2.28203,11.70781 0.0992,1.48828 -1.05833,4.20026 -2.61276,2.18281 -1.55442,-2.01745 -0.42994,-2.08359 -0.42994,-2.08359 0,0 -2.71198,-0.39688 -1.35599,3.37343 1.35599,3.77032 4.72942,2.01745 4.72942,2.01745 0,0 -0.56224,2.14974 -1.4552,1.81901 -0.89297,-0.33073 -1.38907,-0.85989 -1.38907,-0.85989 0,0 0,1.81901 1.71979,1.75286 1.7198,-0.0661 4.00183,-1.45521 4.53099,-3.9026 0.52917,-2.4474 1.02526,-12.40235 5.82084,-14.51901 4.79557,-2.11667 2.74505,1.38906 2.74505,1.38906 0,0 1.5875,-0.92604 1.5875,-1.62057 0,-0.69454 -1.28984,-1.2237 -1.28984,-1.2237 z"
+           style="fill:url(#linearGradient1202);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:url(#linearGradient1212);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 139.88055,115.10943 c 0,0 -1.16969,-3.37031 -2.95563,-3.53567 -1.78594,-0.16536 -1.78594,-0.16536 -1.78594,-0.16536 0,0 2.91042,0.49609 2.51354,1.15755 -0.39687,0.66146 -2.05052,-0.4961 -2.05052,-0.4961 0,0 -1.52135,-0.82682 -2.94349,-0.62838 -1.42213,0.19844 -5.29166,0.82682 -6.35,3.70417 -1.05833,2.87734 2.18282,10.21953 2.28203,11.70781 0.0992,1.48828 -1.05833,4.20026 -2.61276,2.18281 -1.55442,-2.01745 -0.42994,-2.08359 -0.42994,-2.08359 0,0 -2.71198,-0.39688 -1.35599,3.37343 1.35599,3.77032 4.72942,2.01745 4.72942,2.01745 0,0 -0.56224,2.14974 -1.4552,1.81901 -0.89297,-0.33073 -1.38907,-0.85989 -1.38907,-0.85989 0,0 0,1.81901 1.71979,1.75286 1.7198,-0.0661 4.00183,-1.45521 4.53099,-3.9026 0.52917,-2.4474 1.02526,-12.40235 5.82084,-14.51901 4.79557,-2.11667 2.74505,1.38906 2.74505,1.38906 0,0 1.5875,-0.92604 1.5875,-1.62057 0,-0.69454 -1.28984,-1.2237 -1.28984,-1.2237 z"
+           id="path1204"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:url(#linearGradient1224);fill-opacity:1;stroke:none;stroke-width:0.27560848px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 162.07813,102.41492 c 0,0 2.86127,-2.347 4.91924,-0.51995 2.05798,1.82704 3.16294,3.05324 3.64823,2.99431 1.25384,-0.15226 0.90515,-1.47178 0.32741,-1.87779 -0.46773,-0.40601 1.54348,0.60902 1.59025,0.96427 -0.11537,-0.20784 1.70706,4.12355 -2.5257,3.04507 -5.10101,-1.2997 -1.44993,0.50751 -1.44993,0.50751 0,0 0.74835,0.50751 1.26284,0.30451 0.5145,-0.203 -4.63149,2.66974 -5.56589,-0.65976 -0.93439,-3.32949 -2.20645,-4.75817 -2.20645,-4.75817 z"
+           id="path1216"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsccscccc" />
+        <path
+           sodipodi:nodetypes="ccsccscccc"
+           inkscape:connector-curvature="0"
+           id="path1226"
+           d="m 162.07813,102.41492 c 0,0 2.86127,-2.347 4.91924,-0.51995 2.05798,1.82704 3.16294,3.05324 3.64823,2.99431 1.25384,-0.15226 0.90515,-1.47178 0.32741,-1.87779 -0.46773,-0.40601 1.54348,0.60902 1.59025,0.96427 -0.11537,-0.20784 1.70706,4.12355 -2.5257,3.04507 -5.10101,-1.2997 -1.44993,0.50751 -1.44993,0.50751 0,0 0.74835,0.50751 1.26284,0.30451 0.5145,-0.203 -4.63149,2.66974 -5.56589,-0.65976 -0.93439,-3.32949 -2.20645,-4.75817 -2.20645,-4.75817 z"
+           style="fill:url(#linearGradient1228);fill-opacity:1;stroke:none;stroke-width:0.27560848px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:url(#linearGradient1232);fill-opacity:1;stroke:none;stroke-width:0.27560848px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 162.07813,102.41492 c 0,0 2.86127,-2.347 4.91924,-0.51995 2.05798,1.82704 3.16294,3.05324 3.64823,2.99431 1.25384,-0.15226 0.90515,-1.47178 0.32741,-1.87779 -0.46773,-0.40601 1.54348,0.60902 1.59025,0.96427 -0.11537,-0.20784 1.70706,4.12355 -2.5257,3.04507 -5.10101,-1.2997 -1.44993,0.50751 -1.44993,0.50751 0,0 0.74835,0.50751 1.26284,0.30451 0.5145,-0.203 -4.63149,2.66974 -5.56589,-0.65976 -0.93439,-3.32949 -2.20645,-4.75817 -2.20645,-4.75817 z"
+           id="path1230"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsccscccc" />
+        <path
+           style="fill:#ff6600;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 164.6731,102.04876 3.63802,-8.73125 -1.32292,10.05417 c 0,0 -1.65365,0.39687 -2.3151,-1.32292 z"
+           id="path1085"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g1471"
+       transform="translate(18.785416,-84.137498)">
+      <path
+         style="fill:#a2be3a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 139.88055,168.02643 c 0,0 -1.16969,-3.37031 -2.95563,-3.53567 -1.78594,-0.16536 -1.78594,-0.16536 -1.78594,-0.16536 0,0 2.91042,0.49609 2.51354,1.15755 -0.39687,0.66146 -2.05052,-0.4961 -2.05052,-0.4961 0,0 -1.52135,-0.82682 -2.94349,-0.62838 -1.42213,0.19844 -5.29166,0.82682 -6.35,3.70417 -1.05833,2.87734 2.18282,10.21953 2.28203,11.70781 0.0992,1.48828 -1.05833,4.20026 -2.61276,2.18281 -1.55442,-2.01745 -0.42994,-2.08359 -0.42994,-2.08359 0,0 -2.71198,-0.39688 -1.35599,3.37343 1.35599,3.77032 4.72942,2.01745 4.72942,2.01745 0,0 -0.56224,2.14974 -1.4552,1.81901 -0.89297,-0.33073 -1.38907,-0.85989 -1.38907,-0.85989 0,0 0,1.81901 1.71979,1.75286 1.7198,-0.0661 4.00183,-1.45521 4.53099,-3.9026 0.52917,-2.4474 1.02526,-12.40235 5.82084,-14.51901 4.79557,-2.11667 2.74505,1.38906 2.74505,1.38906 0,0 1.5875,-0.92604 1.5875,-1.62057 0,-0.69454 -1.28984,-1.2237 -1.28984,-1.2237 z"
+         id="path1344"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="csccscssccc"
+         inkscape:connector-curvature="0"
+         id="path1346"
+         d="m 159.45471,177.49784 c 0,0 -6.43118,-1.1927 -7.88111,1.19268 -1.04353,1.71676 -0.3508,7.41339 -0.3508,7.41339 0.85491,6.01855 -0.86409,1.86511 -3.5313,-0.0702 0,0 -2.24506,-2.43215 -3.78854,1.77735 -1.54348,4.20949 3.25067,7.65827 3.25067,8.48914 0,0 0.58465,3.25067 -2.24507,1.77735 -2.82972,-1.47333 -9.84554,-12.13738 -10.71083,-18.6621 -0.86528,-6.52471 5.68282,-11.38902 5.68282,-11.38902 5.78644,-3.13578 12.46237,1.81901 16.1364,-0.51449 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 165.04816,170.07574 c 0,0 0.62205,4.63799 -1.89897,5.83666 -3.29496,1.56666 -0.91541,10.71391 -0.81382,10.72068 0,0 1.66042,6.43117 0.21048,7.64725 -1.44993,1.21608 -2.08136,-2.03459 -2.08136,-2.03459 0,0 -1.47333,-4.75841 -2.31523,-5.35541 0,0 -1.59025,-2.75956 -3.13373,1.44994 -1.54348,4.20949 3.25067,7.65827 3.25067,8.48914 0,0 0.58465,3.25067 -2.24507,1.77735 -2.82972,-1.47333 -9.84554,-12.13738 -10.71083,-18.6621 -0.86528,-6.52471 5.68282,-11.38902 5.68282,-11.38902 5.78644,-3.13578 7.41098,-4.63555 11.08501,-6.96905 z"
+         id="path1348"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccccscssccc" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.84162855;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse1350"
+         cx="163.61317"
+         cy="168.45789"
+         rx="7.4449401"
+         ry="7.0480652" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24959208px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 167.48751,162.53934 c 0,0 10.23904,9.54153 8.15793,13.65748 -2.0811,4.11595 -4.66167,3.64822 -4.66167,3.64822 l -12.16587,-5.70402 z"
+         id="path1352"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <circle
+         r="2.2304838"
+         cy="169.77959"
+         cx="166.22417"
+         id="circle1354"
+         style="fill:#009cdd;fill-opacity:1;stroke:none;stroke-width:0.82088065;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+         inkscape:export-xdpi="140.8774"
+         inkscape:export-ydpi="140.8774" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.54001749;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 164.75835,169.80233 a 1.4673272,1.4673272 0 0 0 1.46675,1.44564 1.4673272,1.4673272 0 0 0 1.46608,-1.44564 z"
+         id="path1356"
+         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-lazik.png"
+         inkscape:export-xdpi="140.8774"
+         inkscape:export-ydpi="140.8774" />
+      <path
+         style="fill:#808080;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 170.17788,165.27012 c 0,0 -7.14274,-1.10385 -8.63944,1.42185 -1.54984,3.13735 -3.44702,9.50871 1.71716,9.38253 0,0 -0.9752,-0.14033 -1.77734,6.8755 1.62273,2.1933 -9.81014,-6.482 -8.93349,-8.88671 0.0935,-1.54348 -0.56126,-6.03361 -0.56126,-6.03361 0,0 5.68282,-3.95224 6.50133,-4.72399 0.81851,-0.77174 6.78196,-1.07576 6.78196,-1.07576 l 2.22071,0.30941 z"
+         id="path1358"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccc" />
+      <circle
+         style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.86500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1360"
+         cx="172.01486"
+         cy="175.20541"
+         r="0.52916664" />
+      <path
+         style="fill:#666666;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.49934,175.20871 c 0.036,0.0312 0.0884,-0.41333 -0.5254,-0.68711 -0.28868,-0.17635 -0.66796,-0.0909 -0.66811,-0.0906 0.007,-0.007 0.55998,0.29243 0.57988,0.4308 0.0344,0.12395 0.36716,0.35908 0.36716,0.35908 z"
+         id="path1362"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#808080;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 170.17788,165.27012 c 0.406,0.203 -0.7031,-2.47967 -3.83532,-3.43775 -2.64199,-0.80813 -3.81193,-0.51449 -3.81193,-0.51449 -1.11812,0.19355 -2.16929,0.72187 -3.22728,1.21607 l -1.21608,1.12253 8.0682,-0.0701 2.61924,1.19269 z"
+         id="path1364"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cscccccc" />
+      <circle
+         style="fill:#009cdd;fill-opacity:0.69019608;stroke:none;stroke-width:0.86500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1366"
+         cx="165.26801"
+         cy="170.17839"
+         r="13.361458" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1368"
+         d="m 167.34744,159.3672 c 0,0 1.50597,-0.72179 1.27066,-4.74309 -0.2353,-4.02134 -3.24725,2.47465 -3.24725,2.47465 z"
+         style="fill:#ffffff;stroke:none;stroke-width:0.1970295px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:0.96499997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 159.30335,162.53395 c 0,0 1.07576,-5.3788 5.00462,-5.8699 3.92887,-0.49111 4.06918,-0.23387 4.06918,-0.23387"
+         id="path1370"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#a2be3a;fill-opacity:1;stroke:none;stroke-width:0.27560848px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 162.07813,155.33192 c 0,0 2.86127,-2.347 4.91924,-0.51995 2.05798,1.82704 3.16294,3.05324 3.64823,2.99431 1.25384,-0.15226 0.90515,-1.47178 0.32741,-1.87779 -0.46773,-0.40601 1.54348,0.60902 1.59025,0.96427 -0.11537,-0.20784 1.70706,4.12355 -2.5257,3.04507 -5.10101,-1.2997 -1.44993,0.50751 -1.44993,0.50751 0,0 0.74835,0.50751 1.26284,0.30451 0.5145,-0.203 -4.63149,2.66974 -5.56589,-0.65976 -0.93439,-3.32949 -2.20645,-4.75817 -2.20645,-4.75817 z"
+         id="path1372"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccsccscccc" />
+      <path
+         style="fill:#ffffff;stroke:none;stroke-width:0.25549293px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 160.37713,159.62734 c 0,0 -1.94445,-0.93998 -1.64062,-6.17696 0.30381,-5.23704 4.19274,3.22276 4.19274,3.22276 z"
+         id="path1374"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#cccccc;stroke-width:1.66499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 151.98351,168.02968 c 0,0 -1.96444,10.28988 9.49475,14.92032"
+         id="path1377"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccsccscccc"
+         inkscape:connector-curvature="0"
+         id="path1379"
+         d="m 162.07813,155.33192 c 0,0 2.86127,-2.347 4.91924,-0.51995 2.05798,1.82704 3.16294,3.05324 3.64823,2.99431 1.25384,-0.15226 0.90515,-1.47178 0.32741,-1.87779 -0.46773,-0.40601 1.54348,0.60902 1.59025,0.96427 -0.11537,-0.20784 1.70706,4.12355 -2.5257,3.04507 -5.10101,-1.2997 -1.44993,0.50751 -1.44993,0.50751 0,0 0.74835,0.50751 1.26284,0.30451 0.5145,-0.203 -4.63149,2.66974 -5.56589,-0.65976 -0.93439,-3.32949 -2.20645,-4.75817 -2.20645,-4.75817 z"
+         style="fill:#a2be3a;fill-opacity:1;stroke:none;stroke-width:0.27560848px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 143.89555,191.25291 c -1.1654,1.35845 -2.76943,1.61673 -3.98787,1.1038 1.89505,2.86367 3.81513,5.10328 5.00073,5.72059 2.82972,1.47332 2.24534,-1.77716 2.24534,-1.77716 0,-0.58854 -2.40364,-2.49167 -3.2582,-5.04723 z"
+         id="path1381"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path1383"
+         d="m 155.008,191.78217 c -0.63198,1.99857 -2.0926,2.67215 -3.33306,2.1328 1.89505,2.86367 3.16031,4.07429 4.34592,4.69159 2.82972,1.47332 2.24534,-1.77715 2.24534,-1.77715 0,-0.58854 -2.40364,-2.49167 -3.2582,-5.04724 z"
+         style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 162.98689,190.02146 c -1.01807,1.00684 -2.1916,0.99211 -2.99206,0.80667 0.27843,0.80354 0.46974,1.41748 0.46974,1.41748 0,0 0.63159,3.25058 2.08152,2.0345 0.72215,-0.60567 0.67234,-2.50455 0.4408,-4.25865 z"
+         id="path1385"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ff6600;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 164.6731,154.96576 3.63802,-8.73129 -1.32292,10.05421 c 0,0 -1.65365,0.39687 -2.3151,-1.32292 z"
+         id="path1402"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

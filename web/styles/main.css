@@ -15,8 +15,7 @@ a {
 }
 
 header {
-    width: calc(100% - 120px);
-    padding-top: 60px;
+    padding-top: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -42,9 +41,9 @@ div.container section:not(:first-child) {
     margin-top: 50px;
 }
 
-div.container .date-info {
+/* div.container .date-info {
     margin-bottom: 50px;
-}
+} */
 
 .h-smaller {
     margin: 0;
@@ -77,7 +76,8 @@ div.content-wrapper ul li {
         width: calc(100% - 20px);
         margin: 0;
     }
-    header .logo {
+    
+    .desktop-only{
         display: none;
     }
 
