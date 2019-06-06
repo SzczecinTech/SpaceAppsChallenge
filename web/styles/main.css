@@ -4,7 +4,7 @@ body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     color: white;
-    background-color: #17297f;
+    background-color: #03002e;
 }
 
 a {
@@ -15,7 +15,7 @@ a {
 }
 
 header {
-    padding-top: 10px;
+    padding-top: 60px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -41,9 +41,9 @@ div.container section:not(:first-child) {
     margin-top: 50px;
 }
 
-/* div.container .date-info {
+div.container .date-info {
     margin-bottom: 50px;
-} */
+}
 
 .h-smaller {
     margin: 0;
