@@ -1,0 +1,565 @@
+body {
+  padding-top: 65px;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+@media all and (min-width: 768px) {
+  body {
+    padding-top: 85px;
+  }
+}
+
+/***************************************************************************/
+/*                                navi                                     */
+/***************************************************************************/
+.navbar-default {
+  background-color: #02005c;
+  background: linear-gradient(56.87deg, #02005c 0%, #651372 99.97%);
+}
+
+.navbar-brand {
+  padding-top: 30px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white;
+  font-size: 20px;
+  padding-top: 50px;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: blue;
+}
+
+.navbar-default .navbar-nav > li > a:focus {
+  font-weight: bold;
+  color: #9cfffc;
+  text-decoration: underline;
+}
+
+.navbar-toggle {
+  padding: 20px 20px;
+  margin-top: 20px;
+  margin-right: 40px;
+}
+
+.logo {
+  height: 150px;
+}
+
+#bs-example-navbar-collapse-1 {
+  margin-top: 32px;
+}
+
+@media all and (min-width: 288px) {
+  .logo {
+    height: 30px;
+  }
+}
+
+@media all and (min-width: 768px) {
+  .logo {
+    height: 150px;
+  }
+  .navbar-default {
+    min-height: 180px;
+  }
+  .navbar-header {
+    height: 120px;
+  }
+}
+
+@media all and (min-width: 768px) and (max-width: 992px) {
+  .navbar-default .navbar-nav > li > a {
+    font-size: 15px;
+  }
+}
+
+/***************************************************************************/
+/*                      main section                                       */
+/***************************************************************************/
+.feature-product-info {
+  /* background-color: #0300a2; */
+  background: linear-gradient(141.05deg, #0300a2 0%, #cf10e3 100%);
+  padding-top: 30px;
+  color: white;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h3 {
+  padding-bottom: 20px;
+}
+.about {
+  padding-top: 120px;
+  padding-bottom: 50px;
+}
+.btnpremiera2 {
+  height: 60px;
+  width: 273px;
+  border-radius: 32.5px;
+  background-color: #ffffff;
+
+  color: #0300a2;
+  font-family: "IBM Plex Sans";
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 30px;
+  text-align: center;
+}
+.btnpremiera3 {
+  height: 60px;
+  width: 273px;
+  border-radius: 32.5px;
+  background-color: #ff6600;
+  margin-top: 20px;
+  color: #ffffff;
+  font-family: "IBM Plex Sans";
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 30px;
+  text-align: center;
+}
+
+.date {
+  height: 57px;
+  width: 465px;
+  color: #009cdd;
+  font-family: "IBM Plex Sans";
+  font-size: 60px;
+  font-weight: bold;
+  line-height: 57px;
+  margin-bottom: 32px;
+}
+.desc {
+  color: #ffffff;
+  font-family: "IBM Plex Sans";
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 24px;
+}
+.section-title {
+  color: #ffffff;
+  font-family: "IBM Plex Sans";
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 40px;
+}
+/***************************************************************************/
+/*                               section nasa                              */
+/***************************************************************************/
+.section-nasa {
+  background-color: #02005c;
+  background: linear-gradient(56.87deg, #02005c 0%, #651372 99.97%);
+}
+.lower {
+  padding-top: 150px;
+}
+p {
+  color: #ffffff;
+}
+.paragraph {
+  padding-top: 120px;
+  padding-bottom: 70px;
+}
+.square {
+  padding: 20px 20px 0px 0px;
+  font-size: 16px;
+}
+.desc-text {
+  color: #ffffff;
+  font-family: "IBM Plex Sans";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+}
+
+.read-more {
+  padding-bottom: 100px;
+}
+.yellow {
+  color: #a2be3a;
+}
+/***************************************************************************/
+/*                                program                                  */
+/***************************************************************************/
+.program {
+  color: #009cdd;
+  font-family: "IBM Plex Sans Condensed";
+  font-size: 110px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  line-height: 35px;
+  margin-top: 100px;
+  text-transform: uppercase;
+}
+#the-date {
+  color: #0300a2;
+  font-family: "IBM Plex Sans";
+  font-size: 60px;
+  font-weight: bold;
+  letter-spacing: -0.5px;
+  line-height: 35px;
+}
+#weekday {
+  color: #d4d4d4;
+  font-family: "IBM Plex Sans";
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 26px;
+}
+.hours {
+  color: #000000;
+  font-family: "IBM Plex Sans";
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 26px;
+  margin-top: 50px;
+}
+
+.agenda1 {
+  color: #000000;
+  font-family: "IBM Plex Sans";
+  font-size: 30px;
+  line-height: 26px;
+}
+.line {
+  box-sizing: border-box;
+  height: 1px;
+  width: 469px;
+  border: 1px solid #555555;
+  opacity: 0.3;
+  margin-top: 60px;
+}
+.subs {
+  color: #000000;
+  font-family: "IBM Plex Sans";
+  font-size: 23px;
+  font-weight: bold;
+  line-height: 26px;
+  height: 36px;
+}
+
+.section-space {
+  margin-top: 100px;
+}
+/***************************************************************************/
+/*                                sponsors                                 */
+/***************************************************************************/
+.sponsors {
+  color: #009cdd;
+  font-family: "IBM Plex Sans Condensed";
+  font-size: 110px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  line-height: 35px;
+  text-transform: uppercase;
+  margin-top: 200px;
+}
+.bling-bling {
+  color: #0300a2;
+  font-family: "IBM Plex Sans";
+  font-size: 45px;
+  font-weight: bold;
+  line-height: 35px;
+}
+.logos {
+  margin-top: 30px;
+}
+
+.caption > p {
+  color: #7b8fa1;
+}
+.sponsor-space {
+  margin-top: 60px;
+}
+.sponsor-wanted {
+  color: black;
+}
+.support {
+  color: #000000;
+  font-family: "IBM Plex Sans";
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 34px;
+  margin-top: 50px;
+}
+/***************************************************************************/
+/*                                  team                                   */
+/***************************************************************************/
+.team {
+  border: 10px solid transparent;
+  margin-bottom: 25px;
+  width: 250px;
+  height: 250px;
+  background-color: #f8f8f8;
+}
+.team:hover {
+  border-color: #a5f8c3;
+}
+.namepadding {
+  font-size: 200%;
+  color: #757575;
+}
+.teampart {
+  background-color: rgb(255, 255, 255);
+  padding-bottom: 140px;
+}
+
+.member {
+  color: #7b8fa1;
+  padding: 20px;
+  font-size: 130%;
+}
+.btn {
+  margin-bottom: 5px;
+}
+
+.teamtext {
+  min-height: 200px;
+}
+
+.equal {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}
+.btn-default {
+  width: 50%;
+  margin-bottom: 10px;
+}
+.fa {
+  font-size: 200%;
+}
+
+#flip-container {
+  position: relative;
+  margin: 10px auto;
+  width: 255px;
+  height: 255px;
+  z-index: 1;
+}
+#flip-container {
+  perspective: 1000;
+}
+#flip-card {
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: all 0.6s linear;
+  border-radius: 50%;
+}
+#flip-container:hover #flip-card {
+  transform: rotateY(180deg);
+}
+.face {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+.face.back {
+  display: block;
+  transform: rotateY(180deg);
+  box-sizing: border-box;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  background-color: #aaa;
+  padding-top: 50px;
+}
+.subtitle {
+  color: #0300a2;
+  font-family: "IBM Plex Sans";
+  font-size: 55px;
+  font-weight: bold;
+  line-height: 35px;
+  margin-top: 150px;
+}
+
+@media (min-width: 992px) and (max-width: 1280px) {
+  .col-md-3 {
+    width: 50%;
+  }
+}
+
+/***************************************************************************/
+/*                            localization                                 */
+/***************************************************************************/
+.address {
+  color: #0300a2;
+  font-family: "IBM Plex Sans";
+  font-size: 25px;
+  line-height: 5px;
+  margin-top: 50px;
+}
+.localization {
+  color: #0300a2;
+  font-family: "IBM Plex Sans";
+  font-size: 55px;
+  font-weight: bold;
+  line-height: 35px;
+  margin-top: 50px;
+}
+/***************************************************************************/
+/*                                sign up                                  */
+/***************************************************************************/
+.registration {
+  min-height: 650px;
+  padding-top: 140px;
+  width: 100%;
+}
+.registration h2 {
+  font-size: 42px;
+  font-family: "Myriad Pro", sans-serif;
+  color: white;
+  font-weight: 600;
+
+  line-height: 1.3em;
+  margin-bottom: 15px;
+}
+.registration p {
+  font-size: 14px;
+  font-family: "Myriad Pro", sans-serif;
+  font-weight: lighter;
+  color: #9cfffc;
+}
+.registration .form-group label {
+  padding-top: 15px;
+  color: white;
+  font-size: 21px;
+  font-family: "Myriad Pro", sans-serif;
+  font-weight: 500;
+}
+.registration .form-control {
+  background: rgba(256, 256, 256, 0);
+  color: white;
+
+  border: solid #9cfffc 1px;
+  border-radius: 21px;
+  font-size: 20px;
+}
+.registration .btnpremiera {
+  margin-top: 15px;
+  background: #9cfffc;
+  border-radius: 21px;
+  color: black;
+  width: 100%;
+  font-size: 21px;
+  font-family: "Myriad Pro", sans-serif;
+  font-weight: 500;
+  margin-bottom: 100px;
+}
+
+#form {
+  background-color: #0300a2;
+  background: linear-gradient(141.05deg, #0300a2 0%, #9910e3 100%);
+}
+.zapisz {
+  height: 110px;
+  width: 534px;
+  color: #ffffff;
+  font-family: "IBM Plex Sans Condensed";
+  font-size: 70px;
+  font-weight: bold;
+  line-height: 35px;
+}
+
+.btn-signup {
+  height: 60px;
+  width: 273px;
+  border-radius: 32.5px;
+  background-color: #ffffff;
+  margin-top: 50px;
+  color: #0300a2;
+  font-family: "IBM Plex Sans";
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 30px;
+  text-align: center;
+}
+.privacy {
+  margin-top: 20px;
+}
+/***************************************************************************/
+/*                                cookie                                   */
+/***************************************************************************/
+
+#cookie-warn {
+  position: fixed;
+  background-color: #02005c;
+  margin: 0;
+  width: 100%;
+  display: none;
+  z-index: 99;
+}
+
+#cookie-warn .cookie-icon {
+  padding-top: 1.6rem;
+  margin: 0 auto;
+  text-align: center;
+}
+#cookie-warn .cookie-info p {
+  font-size: 16px;
+  color: white;
+  margin-top: 15px;
+  font-family: "Myriad Pro", sans-serif;
+}
+#cookie-warn a {
+  float: right;
+  color: white;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Myriad Pro", sans-serif;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+#cookie-warn a:hover {
+  float: right;
+  color: #9cfffc;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Myriad Pro", sans-serif;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+/***************************************************************************/
+/*                                footer                                   */
+/***************************************************************************/
+.copyright {
+  padding: 100px 0 30px 0;
+}
+
+/***************************************************************************/
+/*                         scroll to top button                            */
+/***************************************************************************/
+
+.fa-arrow-circle-o-up {
+  font-size: 60px;
+  position: fixed;
+  opacity: 0;
+  visibility: hidden;
+  overflow: hidden;
+  text-align: center;
+  right: 30px;
+  bottom: 30px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+
+.fa-arrow-circle-o-up.show {
+  visibility: visible;
+  cursor: pointer;
+  opacity: 0.5;
+}
