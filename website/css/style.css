@@ -127,7 +127,6 @@ h3 {
 
 .date {
   height: 57px;
-  width: 465px;
   color: #009cdd;
   font-family: "IBM Plex Sans";
   font-size: 60px;
@@ -587,4 +586,16 @@ p {
   visibility: visible;
   cursor: pointer;
   opacity: 0.5;
+}
+
+@media all and (max-width: 768px) {
+  .container {
+    text-align: center;
+  }
+  .date {
+    font-size: 50px;
+  }
+  .program {
+    font-size: 80px;
+  }
 }
