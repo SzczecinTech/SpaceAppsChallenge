@@ -630,4 +630,8 @@ p {
   .address {
     font-size: 20px;
   }
+
+  .navbar-nav {
+    background-color: #02005c;
+  }
 }
