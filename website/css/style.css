@@ -1,11 +1,11 @@
 body {
-  padding-top: 65px;
+  /* padding-top: 65px; */
   font-family: "IBM Plex Sans", sans-serif;
 }
 
 @media all and (min-width: 768px) {
   body {
-    padding-top: 85px;
+    /* padding-top: 85px; */
   }
 }
 
@@ -13,8 +13,8 @@ body {
 /*                                navi                                     */
 /***************************************************************************/
 .navbar-default {
-  background-color: #02005c;
-  background: linear-gradient(56.87deg, #02005c 0%, #651372 99.97%);
+  background-color: transparent;
+  border: none;
 }
 
 .navbar-brand {
@@ -44,6 +44,7 @@ body {
   padding: 20px 20px;
   margin-top: 20px;
   margin-right: 40px;
+  border: none;
 }
 
 .logo {
@@ -73,13 +74,9 @@ body {
   .navbar-header {
     height: 120px;
   }
-  .navbar-default .navbar-nav > li:nth-child(-n + 5) > a {
-    color: white;
-    font-size: 15px;
-    padding-top: 50px;
-  }
-  .navbar-brand {
-    margin-top: 0px;
+
+  .feature-product-info {
+    padding-top: 70px;
   }
 }
 
@@ -89,15 +86,22 @@ body {
   }
 }
 
+.gradient-bg {
+  background-color: #0300a2;
+  background: linear-gradient(140deg, #0300a2 0%, #cf10e3 100%);
+  overflow: hidden;
+  position: relative;
+  z-index: -2;
+}
+
 /***************************************************************************/
 /*                      main section                                       */
 /***************************************************************************/
-.main-info {
-  background: linear-gradient(141.05deg, #0300a2 0%, #cf10e3 100%);
-  padding-top: 30px;
+.feature-product-info {
   color: white;
   background-size: cover;
   background-attachment: fixed;
+  position: relative;
 }
 
 h3 {
@@ -153,10 +157,53 @@ h3 {
 /***************************************************************************/
 /*                               section nasa                              */
 /***************************************************************************/
-.section-nasa {
-  background-color: #02005c;
-  background: linear-gradient(56.87deg, #02005c 0%, #651372 99.97%);
+
+.section-nasa_container {
+  position: relative;
+  z-index: 1;
 }
+
+.section-nasa {
+  position: relative;
+  /* background-color: #02005c;
+  background: linear-gradient(90deg, #02005c 0%, #651372 100%); */
+}
+
+.section-nasa_content {
+  position: relative;
+  background-color: transparent;
+  overflow: hidden;
+}
+
+.section-nasa::before {
+  content: "";
+  position: absolute;
+  top: 0px;
+  left: 0;
+  height: 40vw;
+  width: 150%;
+  background-color: #02005c;
+  background: linear-gradient(90deg, #02005c 0%, #651372 100%);
+  -webkit-border-top-left-radius: 1000px;
+  -webkit-border-top-right-radius: 1000px;
+  -moz-border-radius-topleft: 1000px;
+  -moz-border-radius-topright: 1000px;
+  border-top-left-radius: 1000px;
+  border-top-right-radius: 1000px;
+}
+
+.section-nasa::after {
+  content: "";
+  position: absolute;
+  top: 40vw;
+  left: 0;
+  height: 100%;
+  width: 150%;
+  background-color: #02005c;
+  background: linear-gradient(90deg, #02005c 0%, #651372 100%);
+  z-index: -1;
+}
+
 .lower {
   padding-top: 150px;
 }

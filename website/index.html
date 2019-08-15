@@ -59,33 +59,49 @@
                     </ul>
                 </div>
             </div>
-        </nav>
-    </header>
 
-   <section id="main-info">
-        <div class="main-info">
-            <div class="container">
-                <div class="row about">
-                    <div class="col-lg-5 col-md-5 col-sm-12 ">
+        </div>
+    </nav>
+</header>
 
-                        <h3 class="section-title">Twórz kosmiczne technologie w Szczecinie </h3>
-                        <h2 class="desc">48-godzinny Hackathon z rozwiazywaniem kosmicznych problemów.</h2>
-                        <h2 class="date">18-20.10.2019</h2>
-                        <form>
-                            <button type="submit" formaction="https://2019.spaceappschallenge.org/locations/szczecin-zachodniopomorskie/" class="btn btn-main">Zapisz się</button>
-                        </form>
-                    </div>
-                    <div class=" col-md-offset-6  ">
-                        <img alt="unicorn" class="img-unicorn" src="images/img-unicorn2.png">
-                    </div>
+<!-------------------------------------------------------------------------------->
+<!---------------------------------main section---------------------------------------->
+<!-------------------------------------------------------------------------------->
+<div class="gradient-bg">
+<section id="product-info">
+    <div class="feature-product-info">
+        <div class="container">
+            <div class="row about">
+                <div class="col-lg-5 col-md-5 col-sm-12 ">
+                   
+                    <h3 class="section-title">Twórz kosmiczne technologie w Szczecinie </h3>
+                    <h2 class="desc">48-godzinny Hackathon z rozwiazywaniem kosmicznych problemów.</h2>
+                    <h2 class="date">18-20.10.2019</h2>
+                    
+    
+                    <button type="submit" class="btn btnpremiera2">
+                        <a href="https://2019.spaceappschallenge.org/locations/szczecin-zachodniopomorskie/">Zapisz się</a>
+                    </button></div>
+               
+                
+                <div class=" col-md-offset-6  ">
+
+                    <img alt="unicorn" class="img-unicorn" src="images/img-unicorn2.png" >
                 </div>
             </div>
-    </section>
+        
+    </div>
+      
+    
+</section>
 
-   <section>
-        <div class="section-nasa">
-            <div class="container">
-
+<!-------------------------------------------------------------------------------->
+<!---------------------------------section nasa----------------------------------->
+<!-------------------------------------------------------------------------------->
+<section class="section-nasa_container">
+    <div class="section-nasa">
+        <div class="container section-nasa_content">
+            
                 <div class="row about">
                     <div class=" col-md-5 col-sm-5 ">
                         <img alt="img-astronauta1" src="images/img-astronauta1.svg">
@@ -93,17 +109,29 @@
                     <div class=" col-md-offset-1 col-md-5  col-sm-12 ">
 
                         <h3 class="section-title ">NASA Space Apps Challenge </h3>
-                        <p class="desc-text">NASA Space Apps Challenge to 48-godzinny hackathon (sprint
-                            programistyczny), który polega na rozwiązywaniu wybranego z całej masy nietypowych,
-                            kosmicznych problemów - tych na które możemy natrafić zarówno na Ziemi, przetwarzając dane o
-                            obserwacji naszej lub innych planet, jak i na misji kosmicznej w odległej galaktyce!</p>
+                        <p class="desc-text">NASA Space Apps Challenge to 48-godzinny hackathon (sprint programistyczny), który polega na rozwiązywaniu wybranego z całej masy nietypowych, kosmicznych problemów - tych na które możemy natrafić zarówno na Ziemi, przetwarzając dane o obserwacji naszej lub innych planet, jak i na misji kosmicznej w odległej galaktyce!</p>
+                      
+                    </div> 
+                 </div>   
+        </div>
+        <div class="container section-nasa_content">   
+           
+               
+            <div class="row read-more ">
+                
+                    <div class="col-md-offset-1 col-md-4 col-sm-offset-1 col-sm-4">
+                       
+                            <h3 class="section-title ">Z czym mierzyli się uczestnicy w poprzednich latach? </h3>
 
                     </div>
                 </div>
             </div>
             <div class="container">
 
-                <div class="row read-more ">
+          </div>
+     </div>
+</section>
+</div>
 
                     <div class="col-md-offset-1 col-md-4 col-sm-offset-1 col-sm-4">
 
@@ -632,21 +660,23 @@
             </div>
 
         </div>
-    </section>
-    <span class="scroll-to-top fa fa-arrow-circle-o-up"></span>
-    <script src="bootstrap/jquery.min.js"></script>
-    <script src="bootstrap/bootstrap.min.js"></script>
-    <script>
-        $(document).ready(function () {
-            $('a[href^="#"]').on('click', function (event) {
-                var target = $($(this).attr('href'));
-                if (target.length) {
-                    event.preventDefault();
-                    $('html, body').animate({
-                        scrollTop: target.offset().top - 120
-                    }, 2000);
-                }
-            });
+    </div>
+</section> -->
+
+
+<span class="scroll-to-top fa fa-arrow-circle-o-up"></span>
+<script src="bootstrap/jquery.min.js"></script>
+<script src="bootstrap/bootstrap.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $('a[href^="#"]').on('click', function(event) {
+            var target = $( $(this).attr('href') );
+            if (target.length ) {
+                event.preventDefault();
+                $('html, body').animate({
+                    scrollTop: target.offset().top - 120
+                }, 2000);
+            }
         });
     </script>
 </body>
