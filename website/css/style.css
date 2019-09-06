@@ -65,10 +65,10 @@ body {
 
 @media all and (min-width: 768px) {
   .logo {
-    height: 150px;
+    height: 100px;
   }
   .navbar-default {
-    min-height: 180px;
+    min-height: 130px;
   }
   .navbar-header {
     height: 120px;
@@ -494,51 +494,6 @@ p {
 }
 .privacy {
   margin-top: 20px;
-}
-/***************************************************************************/
-/*                                cookie                                   */
-/***************************************************************************/
-
-#cookie-warn {
-  position: fixed;
-  background-color: #02005c;
-  margin: 0;
-  width: 100%;
-  display: none;
-  z-index: 99;
-}
-
-#cookie-warn .cookie-icon {
-  padding-top: 1.6rem;
-  margin: 0 auto;
-  text-align: center;
-}
-#cookie-warn .cookie-info p {
-  font-size: 16px;
-  color: white;
-  margin-top: 15px;
-  font-family: "Myriad Pro", sans-serif;
-}
-#cookie-warn a {
-  float: right;
-  color: white;
-  text-transform: uppercase;
-  font-size: 18px;
-  font-weight: bold;
-  font-family: "Myriad Pro", sans-serif;
-  margin-top: 15px;
-  margin-bottom: 5px;
-}
-#cookie-warn a:hover {
-  float: right;
-  color: #9cfffc;
-  text-decoration: none;
-  text-transform: uppercase;
-  font-size: 18px;
-  font-weight: bold;
-  font-family: "Myriad Pro", sans-serif;
-  margin-top: 15px;
-  margin-bottom: 5px;
 }
 
 /***************************************************************************/
