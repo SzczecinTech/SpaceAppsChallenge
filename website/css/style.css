@@ -231,7 +231,7 @@ p {
 .line {
   box-sizing: border-box;
   height: 1px;
-  width: 469px;
+ /* width: 469px;*/
   border: 1px solid #555555;
   opacity: 0.3;
   margin-top: 60px;
