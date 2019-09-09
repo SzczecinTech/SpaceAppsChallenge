@@ -198,7 +198,7 @@ p {
   margin-top: 100px;
   text-transform: uppercase;
 }
-#the-date {
+.the-date {
   color: #0300a2;
   font-family: "IBM Plex Sans";
   font-size: 60px;
@@ -206,7 +206,7 @@ p {
   letter-spacing: -0.5px;
   line-height: 35px;
 }
-#weekday {
+.weekday {
   color: #d4d4d4;
   font-family: "IBM Plex Sans";
   font-size: 30px;
