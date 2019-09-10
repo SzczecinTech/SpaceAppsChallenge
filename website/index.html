@@ -41,8 +41,11 @@
                         <a href="#details">O hackatonie</a>
                     </li>
                     <li>
-                        <a href="#sponsors">Sponsorzy</a>
+                        <a href="#agenda">Program</a>
                     </li>
+<!--                    <li>-->
+<!--                        <a href="#sponsors">Sponsorzy</a>-->
+<!--                    </li>-->
                     <li>
                         <a href="#team">Organizatorzy</a>
                     </li>
@@ -68,20 +71,17 @@
                             <h3 class="section-title">Twórz kosmiczne technologie w Szczecinie </h3>
                             <h2 class="desc">48-godzinny Hackathon z rozwiazywaniem kosmicznych problemów.</h2>
                             <h2 class="date">18-20.10.2019</h2>
-
-
-                            <button type="submit" class="btn btnpremiera2">
-                                <a href="https://2019.spaceappschallenge.org/locations/szczecin-zachodniopomorskie/">Zapisz
-                                    się</a>
-                            </button>
+                            <form>
+                                <button type="submit" formaction="https://2019.spaceappschallenge.org/locations/szczecin-zachodniopomorskie/" class="btn btn-main">Zapisz się</button>
+                            </form>
                         </div>
-
 
                         <div class=" col-md-offset-6  ">
                             <img alt="unicorn" class="img-unicorn" src="images/img-unicorn2.png">
                         </div>
                     </div>
                 </div>
+            </div>
         </section>
         <section class="section-nasa_container" id="details">
             <div class="section-nasa">
@@ -152,8 +152,8 @@
         <div class="container">
             <div class="row">
                 <h1 class="program">Program</h1>
-                <p id="the-date">18.10.2019 </p>
-                <p id="weekday">Dzień 1, Piątek</p>
+                <p class="the-date">18.10.2019 </p>
+                <p class="weekday">Dzień 1, Piątek</p>
             </div>
             <div class="row">
                 <div class="col-md-offset-1 col-md-10">
@@ -166,8 +166,8 @@
                 </div>
             </div>
             <div class="row section-space">
-                <p id="the-date">19.10.2019 </p>
-                <p id="weekday">Dzień 2, Sobota</p>
+                <p class="the-date">19.10.2019 </p>
+                <p class="weekday">Dzień 2, Sobota</p>
             </div>
             <div class="row">
                 <div class="col-md-offset-1 col-md-10">
@@ -204,8 +204,8 @@
                 </div>
             </div>
             <div class="row section-space">
-                <p id="the-date">20.10.2019 </p>
-                <p id="weekday">Dzień 3, Niedziela</p>
+                <p class="the-date">20.10.2019 </p>
+                <p class="weekday">Dzień 3, Niedziela</p>
             </div>
             <div class="row">
                 <div class="col-md-offset-1 col-md-10">
@@ -236,308 +236,283 @@
         </div>
     </section>
 
-    <section id="sponsors">
-        <div class="container">
+<!--    <section id="sponsors">-->
+<!--        <div class="container">-->
+<!--            <div class="row">-->
+<!--                <h1 class="program">Sponsorzy</h1>-->
+<!--                <p class="bling-bling sponsor-space">Złoty </p>-->
+<!--            </div>-->
+<!--            <div class="row">-->
+<!--                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">-->
+<!--                    <div class="thumbnail logos">-->
+<!--                        <a href="#">-->
+<!--                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">-->
+<!--                            <div class="caption">-->
+<!--                                <p>NCDC</p>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">-->
+<!--                    <div class="thumbnail logos">-->
+<!--                        <a href="#">-->
+<!--                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">-->
+<!--                            <div class="caption">-->
+<!--                                <p>NCDC</p>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">-->
+<!--                    <div class="thumbnail logos">-->
+<!--                        <a href="#">-->
+<!--                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">-->
+<!--                            <div class="caption">-->
+<!--                                <p>NCDC</p>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="row">-->
+<!--                <p class="bling-bling sponsor-space">Srebrny </p>-->
+<!--            </div>-->
+<!--            <div class="row">-->
+<!--                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">-->
+<!--                    <div class="thumbnail logos">-->
+<!--                        <a href="#">-->
+<!--                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">-->
+<!--                            <div class="caption">-->
+<!--                                <p>NCDC</p>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">-->
+<!--                    <div class="thumbnail logos">-->
+<!--                        <a href="#">-->
+<!--                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">-->
+<!--                            <div class="caption">-->
+<!--                                <p>NCDC</p>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">-->
+<!--                    <div class="thumbnail logos">-->
+<!--                        <a href="#">-->
+<!--                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">-->
+<!--                            <div class="caption">-->
+<!--                                <p>NCDC</p>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="row">-->
+<!--                <p class="bling-bling sponsor-space">Brązowy </p>-->
+<!--            </div>-->
+<!--            <div class="row">-->
+<!--                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">-->
+<!--                    <div class="thumbnail logos">-->
+<!--                        <a href="#">-->
+<!--                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">-->
+<!--                            <div class="caption">-->
+<!--                                <p>NCDC</p>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">-->
+<!--                    <div class="thumbnail logos">-->
+<!--                        <a href="#">-->
+<!--                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">-->
+<!--                            <div class="caption">-->
+<!--                                <p>NCDC</p>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">-->
+<!--                    <div class="thumbnail logos">-->
+<!--                        <a href="#">-->
+<!--                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">-->
+<!--                            <div class="caption">-->
+<!--                                <p>NCDC</p>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="row">-->
+<!--                <h1 class="support">Chcialbyś wesprzeć Szczecin Space Apps Challange?</h1>-->
+<!--                <button type="submit" class="btn btnpremiera3">Zostań sponsorem</button>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </section>-->
+
+   <section id="team">
+        <div class="container text-center sec-title text-center wow fadeInUp animated">
             <div class="row">
-                <h1 class="program">Sponsorzy</h1>
-                <p class="bling-bling sponsor-space">Złoty </p>
+                <div class=" col-md-5  col-sm-10">
+                    <p class="subtitle">Organizatorzy</p>
+                </div>
             </div>
-            <div class="row">
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
+            <div class="row equal teampart">
+
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 member">
+                    <div id="flip-container">
+                        <div id="flip-card" class="shadow">
+                            <div class="front face">
+                                <img src="images/Ania.jpg" class="img-circle team" alt="Anna Waluszko" width="255"
+                                    height="255">
                             </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
+                            <div class=" img-circle back face center ">
+
+                                <a href="https://github.com/Ashiko85" target="_blank">
+                                    <button type="button" class="btn btn-default">
+                                        <span class="fa fa-github"></span>
+                                    </button>
+                                </a>
+                                <a href="https://www.linkedin.com/in/anna-waluszko/" target="_blank">
+                                    <button type="button" class="btn btn-default">
+                                        <span class="fa fa-linkedin-square"></span>
+                                    </button>
+                                </a>
+
                             </div>
-                        </a>
+                        </div>
                     </div>
+                    <p class="text-center namepadding">
+                        <strong>Ania</strong>
                 </div>
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 member">
+                    <div id="flip-container">
+                        <div id="flip-card" class="shadow">
+                            <div class="front face">
+                                <img src="images/Asia.jpg" class="img-circle team" alt="Joanna Dąbrowska-Słaby" width="255"
+                                    height="255">
                             </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <p class="bling-bling sponsor-space">Srebrny </p>
-            </div>
-            <div class="row">
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
+                            <div class="img-circle back face center">
+                                <a href="https://github.com/JoannaDS" target="_blank">
+                                    <button type="button" class="btn btn-default">
+                                        <span class="fa fa-github"></span>
+                                    </button>
+                                </a>
+                                <a href="https://www.linkedin.com/in/joanna-dabrowska-slaby-bb2723ab/" target="_blank">
+                                    <button type="button" class="btn btn-default">
+                                        <span class="fa fa-linkedin-square"></span>
+                                    </button>
+                                </a>
                             </div>
-                        </a>
+                        </div>
                     </div>
+                    <p class="text-center namepadding">
+                        <strong>Asia</strong>
                 </div>
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 member">
+                    <div id="flip-container">
+                        <div id="flip-card" class="shadow">
+                            <div class="front face">
+                                <img src="images/Milena.jpg" class="img-circle team" alt="Milena Michalska" width="255"
+                                    height="255">
                             </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
+                            <div class="img-circle back face center">
+                                <a href="https://github.com/milenamichalska" target="_blank">
+                                    <button type="button" class="btn btn-default">
+                                        <span class="fa fa-github"></span>
+                                    </button>
+                                </a>
+                                <a href="https://www.linkedin.com/in/milenamichalska/" target="_blank">
+                                    <button type="button" class="btn btn-default">
+                                        <span class="fa fa-linkedin-square"></span>
+                                    </button>
+                                </a>
+
                             </div>
-                        </a>
+                        </div>
                     </div>
+                    <p class="text-center namepadding">
+                        <strong>Milena</strong>
                 </div>
-            </div>
-            <div class="row">
-                <p class="bling-bling sponsor-space">Brązowy </p>
-            </div>
-            <div class="row">
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 member">
+                    <div id="flip-container">
+                        <div id="flip-card" class="shadow">
+                            <div class="front face">
+                                <img src="images/Maria.jpg" class="img-circle team" alt="Maria Preyzner" width="255"
+                                    height="255">
                             </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
+                            <div class="img-circle back face center">
+                                <a href="https://github.com/Mpreyzner" target="_blank">
+                                    <button type="button" class="btn btn-default">
+                                        <span class="fa fa-github"></span>
+                                    </button>
+                                </a>
+                                <a href="https://www.linkedin.com/in/maria-preyzner/" target="_blank">
+                                    <button type="button" class="btn btn-default">
+                                        <span class="fa fa-linkedin-square"></span>
+                                    </button>
+                                </a>
                             </div>
-                        </a>
+                        </div>
                     </div>
+                    <p class="text-center namepadding">
+                        <strong>Maria</strong>
                 </div>
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 member">
+                    <div id="flip-container">
+                        <div id="flip-card" class="shadow">
+                            <div class="front face">
+                                <img src="images/Grzesiek.jpg" class="img-circle team" alt="Grzegorz Adamowicz" width="255"
+                                    height="255">
                             </div>
-                        </a>
+                            <div class="img-circle back face center">
+                                <a href="https://github.com/gstlt" target="_blank">
+                                    <button type="button" class="btn btn-default">
+                                        <span class="fa fa-github"></span>
+                                    </button>
+                                </a>
+                                <a href="https://www.linkedin.com/in/gadamowicz/" target="_blank">
+                                    <button type="button" class="btn btn-default">
+                                        <span class="fa fa-linkedin-square"></span>
+                                    </button>
+                                </a>
+
+                            </div>
+                        </div>
                     </div>
+                    <p class="text-center namepadding">
+                        <strong>Grzesiek</strong>
                 </div>
-            </div>
-            <div class="row">
-                <h1 class="support">Chcialbyś wesprzeć Szczecin Space Apps Challange?</h1>
-                <button type="submit" class="btn btnpremiera3">Zostań sponsorem</button>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 member">
+                    <div id="flip-container">
+                        <div id="flip-card" class="shadow">
+                            <div class="front face">
+                                <img src="images/Damian.jpg" class="img-circle team" alt="Damian Wojsław" width="255"
+                                    height="255">
+                            </div>
+                            <div class="img-circle back face center">
+                                <a href="https://github.com/madwizard" target="_blank">
+                                    <button type="button" class="btn btn-default">
+                                        <span class="fa fa-github"></span>
+                                    </button>
+                                </a>
+                                <a href="https://www.linkedin.com/in/damian-wojslaw/" target="_blank">
+                                    <button type="button" class="btn btn-default">
+                                        <span class="fa fa-linkedin-square"></span>
+                                    </button>
+                                </a>
+
+                            </div>
+                        </div>
+                    </div>
+                    <p class="text-center namepadding">
+                        <strong>Damian</strong>
+                </div>
+
             </div>
         </div>
     </section>
-
-    <section id="team">
-            <div class="container text-center sec-title text-center wow fadeInUp animated">
-                <div class="row">
-                    <h1 class="subtitle">Organizatorzy</h1>
-                </div>
-                <div class="row equal teampart">
-    
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 member">
-                        <div id="flip-container">
-                            <div id="flip-card" class="shadow">
-                                <div class="front face">
-                                    <img src="images/Ania.jpg" class="img-circle team" alt="Random Name" width="255"
-                                        height="255">
-                                </div>
-                                <div class=" img-circle back face center ">
-    
-                                    <a href="https://github.com/katarzyna-stepczynska" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-github"></span>
-                                        </button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/in/katarzynastepczynska/" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-linkedin-square"></span>
-                                        </button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/in/katarzynastepczynska/" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-user"></span>
-                                        </button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <p class="text-center namepadding">
-                            <strong>Ania</strong>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 member">
-                        <div id="flip-container">
-                            <div id="flip-card" class="shadow">
-                                <div class="front face">
-                                    <img src="images/Asia.jpg" class="img-circle team" alt="Random Name" width="255"
-                                        height="255">
-                                </div>
-                                <div class="img-circle back face center">
-                                    <a href="https://github.com/JoannaDS" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-github"></span>
-                                        </button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/in/joanna-dabrowska-slaby-bb2723ab/" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-linkedin-square"></span>
-                                        </button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/in/joanna-dabrowska-slaby-bb2723ab/" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-user"></span>
-                                        </button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <p class="text-center namepadding">
-                            <strong>Asia</strong>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 member">
-                        <div id="flip-container">
-                            <div id="flip-card" class="shadow">
-                                <div class="front face">
-                                    <img src="images/Milena.jpg" class="img-circle team" alt="Random Name" width="255"
-                                        height="255">
-                                </div>
-                                <div class="img-circle back face center">
-                                    <a href="https://github.com/patrykmielcarz" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-github"></span>
-                                        </button>
-                                    </a>
-                                    <a href="https://github.com/patrykmielcarz" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-linkedin-square"></span>
-                                        </button>
-                                    </a>
-                                    <a href="https://github.com/patrykmielcarz" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-user"></span>
-                                        </button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <p class="text-center namepadding">
-                            <strong>Milena</strong>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 member">
-                        <div id="flip-container">
-                            <div id="flip-card" class="shadow">
-                                <div class="front face">
-                                    <img src="images/Maria.jpg" class="img-circle team" alt="Random Name" width="255"
-                                        height="255">
-                                </div>
-                                <div class="img-circle back face center">
-                                    <a href="https://github.com/BartoszSierakowski" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-github"></span>
-                                        </button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/in/bartosz-sierakowski-281445101/" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-linkedin-square"></span>
-                                        </button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/in/bartosz-sierakowski-281445101/" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-user"></span>
-                                        </button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <p class="text-center namepadding">
-                            <strong>Maria</strong>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 member">
-                        <div id="flip-container">
-                            <div id="flip-card" class="shadow">
-                                <div class="front face">
-                                    <img src="images/Grzesiek.jpg" class="img-circle team" alt="Random Name" width="255"
-                                        height="255">
-                                </div>
-                                <div class="img-circle back face center">
-                                    <a href="https://github.com/BartoszSierakowski" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-github"></span>
-                                        </button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/in/bartosz-sierakowski-281445101/" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-linkedin-square"></span>
-                                        </button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/in/bartosz-sierakowski-281445101/" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-user"></span>
-                                        </button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <p class="text-center namepadding">
-                            <strong>Grzesiek</strong>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 member">
-                        <div id="flip-container">
-                            <div id="flip-card" class="shadow">
-                                <div class="front face">
-                                    <img src="images/Damian.jpg" class="img-circle team" alt="Random Name" width="255"
-                                        height="255">
-                                </div>
-                                <div class="img-circle back face center">
-                                    <a href="https://github.com/BartoszSierakowski" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-github"></span>
-                                        </button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/in/bartosz-sierakowski-281445101/" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-linkedin-square"></span>
-                                        </button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/in/bartosz-sierakowski-281445101/" target="_blank">
-                                        <button type="button" class="btn btn-default">
-                                            <span class="fa fa-user"></span>
-                                        </button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <p class="text-center namepadding">
-                            <strong>Damian</strong>
-                    </div>
-    
-    
-                </div>
-        </section>
-        </section>
         <!-------------------------------------------------------------------------------->
         <!--------------------------localization------------------------------------------>
         <!-------------------------------------------------------------------------------->
