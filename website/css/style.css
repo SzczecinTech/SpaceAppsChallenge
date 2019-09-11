@@ -1,5 +1,4 @@
 body {
-  /* padding-top: 65px; */
   font-family: "IBM Plex Sans", sans-serif;
 }
 
@@ -88,7 +87,7 @@ body {
 
 .gradient-bg {
   background-color: #0300a2;
-  background: linear-gradient(140deg, #0300a2 0%, #cf10e3 100%);
+  /*background: linear-gradient(140deg, #0300a2 0%, #cf10e3 100%);*/
   overflow: hidden;
   position: relative;
   z-index: -2;
@@ -545,11 +544,7 @@ p {
 /*                                footer                                   */
 /***************************************************************************/
 #footer {
-  background-color: #0300a2;
-  background: linear-gradient(141.05deg, #0300a2 0%, #0300a2 100%);
-}
-
-.footer {
+  background-color: #02005c;
   width: 100%;
 }
 

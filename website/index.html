@@ -1,17 +1,15 @@
 <!DOCTYPE html>
 <html lang="pl">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed:200i,400,700&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed:200i,400,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/font-awesome-animation.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <title>Szczecin SpaceApps Challenge</title>
+    <title>Szczecin Space Apps Challenge</title>
     <meta name="description" content="NASA Space Apps Challenge to 48-godzinny hackathon, który polega na rozwiązywaniu wybranego z całej masy nietypowych, kosmicznych problemów">
     <meta name="robots" content="index, follow" />
     <link rel="shortcut icon" href="images/favicon-icons-48x48.png">
@@ -28,14 +26,14 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#sneak-peak">
+                <a class="navbar-brand">
                     <img alt="logo" class="logo" src="images/space_apps_logo.png">
                 </a>
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="#product-info">Zapisz się</a>
+                        <a href="https://2019.spaceappschallenge.org/locations/szczecin-zachodniopomorskie/">Zapisz się</a>
                     </li>
                     <li>
                         <a href="#details">O hackatonie</a>
@@ -52,9 +50,9 @@
                     <li>
                         <a href="#localization">Lokalizacja</a>
                     </li>
-                    <!-- <li>
-                                <a href="https://www.facebook.com/szczecinspaceapps/"><img src="images/fbicon.png" alt="Facebook icon" height="50px"></a>
-                            </li> -->
+                    <li>
+                        <a href="https://www.facebook.com/szczecinspaceapps/"><img src="images/fbicon.png" alt="Facebook icon" height="40px"></a>
+                    </li>
                 </ul>
             </div>
 
@@ -67,13 +65,12 @@
                 <div class="container">
                     <div class="row about">
                         <div class="col-lg-5 col-md-5 col-sm-12 ">
-
-                            <h3 class="section-title">Twórz kosmiczne technologie w Szczecinie </h3>
+                            <h2 class="section-title">Twórz kosmiczne technologie w Szczecinie </h2>
                             <h2 class="desc">48-godzinny Hackathon z rozwiazywaniem kosmicznych problemów.</h2>
-                            <h2 class="date">18-20.10.2019</h2>
-                            <form>
-                                <button type="submit" formaction="https://2019.spaceappschallenge.org/locations/szczecin-zachodniopomorskie/" class="btn btn-main">Zapisz się</button>
-                            </form>
+                            <h4 class="date">18-20.10.2019</h4>
+                            <a href="https://2019.spaceappschallenge.org/locations/szczecin-zachodniopomorskie/" target="_blank">
+                                <button type="button" class="btn btn-main">Zapisz się</button>
+                            </a>
                         </div>
 
                         <div class=" col-md-offset-6  ">
@@ -513,26 +510,33 @@
             </div>
         </div>
     </section>
-        <!-------------------------------------------------------------------------------->
-        <!--------------------------localization------------------------------------------>
-        <!-------------------------------------------------------------------------------->
-        <section id="localization">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-offset-1 col-md-4 col-sm-offset-1 col-sm-4">
-                        <p class="localization">Lokalizacja</p>
-                        <p class="address">Siedziba NCDC</p>
-                        <p class="address">ul. Bartosza Głowackiego 4</p>
-                        <p class="address">70-238 Szczecin</p>
-                    </div>
-                    <div class="col-md-6 col-sm-6">
-                        <img src="images/img-map.png" class="img-responsive max-width: 100% height: auto"
-                            alt="spaceappschallange map">
-                    </div>
+    <section id="localization">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-1 col-md-4 col-sm-offset-1 col-sm-4">
+                    <p class="localization">Lokalizacja</p>
+                    <p class="address">Siedziba NCDC</p>
+                    <p class="address">ul. Bartosza Głowackiego 4</p>
+                    <p class="address">70-238 Szczecin</p>
+                </div>
+                <div class="col-md-6 col-sm-6">
+                    <img src="images/img-map.png" class="img-responsive max-width: 100% height: auto"  alt="spaceappschallange map">
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
+    <section class="footer" id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-offset-1 col-sm-6  col-md-offset-1 col-md-6">
+                    <p class="copyright">&copy; 2019 spaceapps.szczecin.pl - Made with love in Szczecin, Poland</p>
+                </div>
 
+            </div>
+
+        </div>
+    </section>
+    <span class="scroll-to-top fa fa-arrow-circle-o-up"></span>
 
     <script src="bootstrap/jquery.min.js"></script>
     <script src="bootstrap/bootstrap.min.js"></script>
@@ -550,11 +554,7 @@
         });
     </script>
     
-    <!-- DODANO SKRYPT JQUERRY -->
-    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-    <!-- DODANO SKRYPT DO SCROLLUPA -->
     <script type="text/javascript" src="js/scroll.js"></script>
-    <!-- DODANO SKRYPT DO CIASTECZEK -->
     <script type="text/javascript" src="js/cookie-info.js"></script>
 </body>
 

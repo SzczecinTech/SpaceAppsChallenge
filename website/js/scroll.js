@@ -1,16 +1,16 @@
 $(document).ready(function() {
     $('.navbar-default a[href^="#"]').on('click', function(event) {
-        var target = $( $(this).attr('href') );
+        let target = $( $(this).attr('href') );
         if (target.length ) {
             event.preventDefault();
             $('html, body').animate({
                 scrollTop: target.offset().top - 120
-            }, 1500);
+            }, 100);
         }
     });
 });
 
-$(function(){
+$(document).ready(function(){
 
     $(document).on( 'scroll', function(){
 
@@ -29,9 +29,12 @@ $(function(){
 });
 
 function scrollToTop() {
-    verticalOffset = typeof(verticalOffset) != 'undefined' ? verticalOffset : 0;
-    element = $('body');
-    offset = element.offset();
-    offsetTop = offset.top;
-    $('html, body').animate({scrollTop: offsetTop}, 500, 'linear');
+    if (typeof(verticalOffset) === 'undefined') {
+        let verticalOffset = 0;
+    }
+
+    let element = $('body');
+    let offset = element.offset();
+    let offsetTop = offset.top;
+    $('html, body').animate({scrollTop: offsetTop}, 500);
 }
