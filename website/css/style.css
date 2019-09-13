@@ -86,11 +86,9 @@ body {
 }
 
 .gradient-bg {
-  background-color: #0300a2;
-  /*background: linear-gradient(140deg, #0300a2 0%, #cf10e3 100%);*/
   overflow: hidden;
-  position: relative;
   z-index: -2;
+  background: linear-gradient(141.05deg, #0300a2 0%, #cf10e3 100%);
 }
 
 /***************************************************************************/
@@ -100,7 +98,6 @@ body {
   color: white;
   background-size: cover;
   background-attachment: fixed;
-  position: relative;
 }
 
 h3 {
@@ -113,7 +110,7 @@ h3 {
 .btn-main {
   height: 60px;
   width: 273px;
-  border-radius: 32.5px;
+  border-radius: 32px;
   background-color: #ffffff;
 
   color: #0300a2;
@@ -162,43 +159,15 @@ h3 {
 
 .section-nasa {
   position: relative;
-  /* background-color: #02005c;
-  background: linear-gradient(90deg, #02005c 0%, #651372 100%); */
+  background: linear-gradient(90deg, #02005c 0%, #651372 100%);
+  border-top-left-radius: 100% 30%;
+  border-top-right-radius: 100% 30%;
 }
 
 .section-nasa_content {
   position: relative;
   background-color: transparent;
   overflow: hidden;
-}
-
-.section-nasa::before {
-  content: "";
-  position: absolute;
-  top: 0px;
-  left: 0;
-  height: 40vw;
-  width: 150%;
-  background-color: #02005c;
-  background: linear-gradient(90deg, #02005c 0%, #651372 100%);
-  -webkit-border-top-left-radius: 1000px;
-  -webkit-border-top-right-radius: 1000px;
-  -moz-border-radius-topleft: 1000px;
-  -moz-border-radius-topright: 1000px;
-  border-top-left-radius: 1000px;
-  border-top-right-radius: 1000px;
-}
-
-.section-nasa::after {
-  content: "";
-  position: absolute;
-  top: 40vw;
-  left: 0;
-  height: 100%;
-  width: 150%;
-  background-color: #02005c;
-  background: linear-gradient(90deg, #02005c 0%, #651372 100%);
-  z-index: -1;
 }
 
 .lower {
@@ -232,6 +201,7 @@ p {
 /***************************************************************************/
 /*                                program                                  */
 /***************************************************************************/
+
 .program {
   color: #009cdd;
   font-family: "IBM Plex Sans Condensed";
