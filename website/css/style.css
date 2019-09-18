@@ -467,16 +467,15 @@ p {
   border-radius: 21px;
   font-size: 20px;
 }
-.registration .btnpremiera {
+.btnpremiera {
   margin-top: 15px;
-  background: #9cfffc;
+  padding: 15px 40px;
+  background: #fd6600;
   border-radius: 21px;
-  color: black;
-  width: 100%;
-  font-size: 21px;
+  color: white;
+  font-size: 24px;
   font-family: "Myriad Pro", sans-serif;
-  font-weight: 500;
-  margin-bottom: 100px;
+  font-weight: bold;
 }
 
 #form {
