@@ -88,7 +88,7 @@ body {
 .gradient-bg {
   overflow: hidden;
   z-index: -2;
-  background: linear-gradient(141.05deg, #0300a2 0%, #cf10e3 100%);
+  background: linear-gradient(141.05deg, #0300a2 20%, #cf10e3 60%);
 }
 
 /***************************************************************************/
