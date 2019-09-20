@@ -4,7 +4,7 @@ body {
 
 @media all and (min-width: 768px) {
   body {
-    /* padding-top: 85px; */
+     /*padding-top: 85px;*/
   }
 }
 
@@ -20,7 +20,7 @@ body {
   margin-top: 30px;
 }
 
-.navbar-default .navbar-nav > li:nth-child(-n + 5) > a {
+.navbar-default .navbar-nav > li:nth-child(-n + 6) > a {
   color: white;
   font-size: 20px;
   padding-top: 50px;

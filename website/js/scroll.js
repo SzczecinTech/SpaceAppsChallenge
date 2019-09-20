@@ -16,9 +16,7 @@ $(document).ready(function(){
 
         if ($(window).scrollTop() > 100) {
             $('.scroll-to-top').addClass('show');
-
             $(".navbar-default").css("background-color" , "#02005c");
-            // $(".navbar-default").css("background" , "linear-gradient(56.87deg, #02005c 0%, #651372 99.97%)");
         } else {
             $('.scroll-to-top').removeClass('show');
             $(".navbar-default").css("background" , "none");
