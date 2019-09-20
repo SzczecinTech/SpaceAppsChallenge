@@ -16,7 +16,10 @@
    version="1.1"
    id="svg4309"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="button.svg">
+   sodipodi:docname="button.svg"
+   inkscape:export-filename="/home/gstlt/workdir/szot/SpaceAppsChallenge/svgs/button.png"
+   inkscape:export-xdpi="280"
+   inkscape:export-ydpi="280">
   <defs
      id="defs4303">
     <circle
@@ -37,16 +40,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="924.97758"
+     inkscape:zoom="0.95779167"
+     inkscape:cx="755.90551"
      inkscape:cy="910.82322"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2048"
-     inkscape:window-height="1088"
+     inkscape:window-width="3840"
+     inkscape:window-height="2123"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata4306">
@@ -72,297 +75,8 @@
        cy="97"
        r="195.96036" />
     <g
-       id="g4548"
-       transform="matrix(2.9739922,0,0,2.9739922,497.79831,-218.38896)">
-      <path
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.32774556px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m -131.17611,92.923766 -1.82274,10.819934 25.73171,-3.04316 -4.29639,-10.096264 z"
-         id="path1548"
-         inkscape:connector-curvature="0" />
-      <ellipse
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:2.53697443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse1522"
-         cx="-275.29852"
-         cy="-163.62672"
-         rx="3.8424516"
-         ry="6.3605385"
-         transform="matrix(0.42392568,-0.90569698,0.11744664,0.99307919,0,0)" />
-      <ellipse
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.53697443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse1524"
-         cx="-274.12442"
-         cy="-162.46031"
-         rx="3.8424516"
-         ry="6.3605385"
-         transform="matrix(0.42392568,-0.90569698,0.11744664,0.99307919,0,0)" />
-      <ellipse
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         transform="matrix(0.42392568,-0.90569698,0.11744664,0.99307919,0,0)"
-         ry="6.3605385"
-         rx="3.8424516"
-         cy="-161.00929"
-         cx="-272.41669"
-         id="ellipse1526"
-         style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.53697443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.53697443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse1528"
-         cx="-270.70892"
-         cy="-159.55833"
-         rx="3.8424516"
-         ry="6.3605385"
-         transform="matrix(0.42392568,-0.90569698,0.11744664,0.99307919,0,0)" />
-      <rect
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         transform="rotate(-6.7447638)"
-         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.67058492;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1556"
-         width="0.99432904"
-         height="22.390327"
-         x="-141.19055"
-         y="55.412853"
-         ry="0.40878555" />
-      <ellipse
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         transform="matrix(0.42392568,-0.90569698,0.11744664,0.99307919,0,0)"
-         ry="6.3605385"
-         rx="3.8424516"
-         cy="-158.10736"
-         cx="-269.00116"
-         id="path1520"
-         style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:2.53697443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         transform="rotate(-6.7447638)"
-         ry="0.40878555"
-         y="55.412853"
-         x="-122.27778"
-         height="22.390327"
-         width="0.99432904"
-         id="rect1074"
-         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.67058492;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         id="path4823"
-         d="m -132.41216,86.236606 -0.15619,0.84609 23.15111,-2.73797 -0.75867,-0.7379 z"
-         style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.21596143;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         sodipodi:nodetypes="csc"
-         inkscape:connector-curvature="0"
-         id="path4830"
-         d="m -115.82619,83.430256 c 0,0 -1.49623,-9.93668 -8.60113,-3.53616 -7.08559,6.38315 -7.89068,12.92408 -11.56533,10.55313"
-         style="fill:none;stroke:#fafafa;stroke-width:0.2150213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <rect
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         transform="rotate(-6.7447638)"
-         y="74.045883"
-         x="-128.53145"
-         height="1.0453483"
-         width="2.2917264"
-         id="rect4748"
-         style="fill:#009cdd;fill-opacity:1;stroke:none;stroke-width:0.14040963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         transform="rotate(-6.7447638)"
-         y="71.713959"
-         x="-128.8129"
-         height="2.9350145"
-         width="2.8546033"
-         id="rect4746"
-         style="fill:#009cdd;fill-opacity:1;stroke:none;stroke-width:0.14040963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         transform="rotate(-6.7447638)"
-         ry="0.22743766"
-         y="72.390839"
-         x="-127.30837"
-         height="1.6550663"
-         width="1.0686498"
-         id="rect4796"
-         style="fill:#3ac5ff;fill-opacity:1;stroke:none;stroke-width:0.14040963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         transform="rotate(-6.7447638)"
-         ry="0.28429711"
-         y="68.141693"
-         x="-129.83786"
-         height="4.9855042"
-         width="4.9855042"
-         id="rect4736"
-         style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.15545353;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         transform="rotate(-6.7447638)"
-         y="69.209648"
-         x="-130.2561"
-         height="2.8145413"
-         width="5.7712312"
-         id="rect4738"
-         style="fill:#009cdd;fill-opacity:1;stroke:none;stroke-width:0.14040963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         transform="rotate(-6.7447638)"
-         r="2.1688571"
-         cy="70.472908"
-         cx="-127.33604"
-         id="path4740"
-         style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.14040963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         transform="rotate(-6.7447638)"
-         style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.0170954;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4742"
-         cx="-129.2977"
-         cy="68.710281"
-         r="0.26406649" />
-      <circle
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         transform="rotate(-6.7447638)"
-         r="0.26406649"
-         cy="72.49144"
-         cx="-125.45968"
-         id="circle4744"
-         style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.0170954;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         inkscape:connector-curvature="0"
-         id="path4836-5"
-         d="m -128.40475,93.514806 -1.39122,7.117504 18.52082,-2.190364 -3.01312,-6.59663 z"
-         style="fill:#94ad35;fill-opacity:1;stroke:none;stroke-width:0.22515179px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <rect
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         transform="rotate(-6.7447638)"
-         ry="0"
-         y="84.691734"
-         x="-140.71661"
-         height="1.1554735"
-         width="18.649891"
-         id="rect4876-5"
-         style="fill:#a2be3a;fill-opacity:1;stroke:none;stroke-width:0.14040963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         transform="rotate(-6.7447638)"
-         ry="0.49716452"
-         y="60.174343"
-         x="-144.26274"
-         height="27.231092"
-         width="0.99432904"
-         id="rect1550"
-         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.84234452;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         transform="rotate(-6.7447638)"
-         style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.84234452;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1552"
-         width="0.99432904"
-         height="27.231092"
-         x="-119.34603"
-         y="60.174343"
-         ry="0.49716452" />
-      <path
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         sodipodi:nodetypes="cccccc"
-         inkscape:connector-curvature="0"
-         id="path1078"
-         d="m -133.12777,71.661986 -2.67193,5.20463 25.00387,-2.92872 -3.53535,-4.61226 -18.79659,2.33634 0.15372,-0.0182"
-         style="fill:none;stroke:#cccccc;stroke-width:0.73608685;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         transform="rotate(-6.7447638)"
-         style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.16570021;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1080"
-         width="25.973385"
-         height="1.1554735"
-         x="-144.31905"
-         y="86.943222"
-         ry="0" />
-      <path
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         inkscape:connector-curvature="0"
-         id="path4817"
-         d="m -123.81484,94.574016 c 0,0 0.50591,-1.71484 3.81414,-1.30769 3.30825,0.40716 2.33005,-3.06997 2.33005,-3.06997"
-         style="fill:none;stroke:#ffffff;stroke-width:0.31622747px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:export-ydpi="140.14"
-         inkscape:export-xdpi="140.14"
-         inkscape:export-filename="C:\projects\SpaceAppsChallenge\web\assets\astronauta-drukarka.png"
-         inkscape:transform-center-y="0.014463868"
-         transform="matrix(0.5384705,-0.05191116,0.01373655,0.29741648,-140.06955,86.357106)"
-         inkscape:transform-center-x="-0.47361008"
-         d="m 38.948063,17.88051 4.282966,-0.110421 -2.045856,3.764368 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="true"
-         sodipodi:arg2="-1.5965719"
-         sodipodi:arg1="-2.6437695"
-         sodipodi:r2="1.3465424"
-         sodipodi:r1="2.4735932"
-         sodipodi:cy="19.061686"
-         sodipodi:cx="41.121422"
-         sodipodi:sides="3"
-         id="path4750"
-         style="fill:#009cdd;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         sodipodi:type="star" />
-    </g>
-    <g
        id="g4520"
-       transform="matrix(5.5501124,0,0,5.5501124,-458.98598,-391.79177)">
+       transform="matrix(6.2401955,0,0,6.2401955,-588.40133,-494.63669)">
       <path
          inkscape:export-ydpi="140.14"
          inkscape:export-xdpi="140.14"
@@ -607,10 +321,27 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="text5452"
-       transform="matrix(1.4713347,0,0,1.4713347,-418.7914,-157.16273)"><textPath
+       transform="matrix(1.4046127,0.28837269,-0.28837269,1.4046127,-343.82721,-274.37756)"><textPath
          xlink:href="#circle5448"
          id="textPath5454"><tspan
    style="fill:#ffffff;stroke-width:0.26458332"
    id="tspan5450">Szczecin Space Apps Challenge 2019</tspan></textPath></text>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       id="path5477"
+       cx="507.17657"
+       cy="-49.264889"
+       r="100" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text5481"
+       x="-4.6961327"
+       y="13.812155"
+       transform="matrix(1.7809149,0.31920289,-0.31920289,1.7809149,-734.24526,9.8042163)"><textPath
+         xlink:href="#path5477"
+         id="textPath5483"><tspan
+   style="fill:#ffffff;stroke-width:0.26458332"
+   id="tspan5479">spaceapps.szczecin.pl</tspan></textPath></text>
   </g>
 </svg>
