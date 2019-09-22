@@ -1,11 +1,10 @@
 body {
-  padding-top: 65px;
   font-family: "IBM Plex Sans", sans-serif;
 }
 
 @media all and (min-width: 768px) {
   body {
-    padding-top: 85px;
+     /*padding-top: 85px;*/
   }
 }
 
@@ -13,15 +12,15 @@ body {
 /*                                navi                                     */
 /***************************************************************************/
 .navbar-default {
-  background-color: #02005c;
-  background: linear-gradient(56.87deg, #02005c 0%, #651372 99.97%);
+  background-color: transparent;
+  border: none;
 }
 
 .navbar-brand {
   margin-top: 30px;
 }
 
-.navbar-default .navbar-nav > li:nth-child(-n + 5) > a {
+.navbar-default .navbar-nav > li:nth-child(-n + 6) > a {
   color: white;
   font-size: 20px;
   padding-top: 50px;
@@ -44,6 +43,7 @@ body {
   padding: 20px 20px;
   margin-top: 20px;
   margin-right: 40px;
+  border: none;
 }
 
 .logo {
@@ -73,13 +73,9 @@ body {
   .navbar-header {
     height: 120px;
   }
-  .navbar-default .navbar-nav > li:nth-child(-n + 5) > a {
-    color: white;
-    font-size: 15px;
-    padding-top: 50px;
-  }
-  .navbar-brand {
-    margin-top: 0px;
+
+  .feature-product-info {
+    padding-top: 70px;
   }
 }
 
@@ -89,12 +85,16 @@ body {
   }
 }
 
+.gradient-bg {
+  overflow: hidden;
+  z-index: -2;
+  background: linear-gradient(141.05deg, #0300a2 20%, #cf10e3 60%);
+}
+
 /***************************************************************************/
 /*                      main section                                       */
 /***************************************************************************/
-.main-info {
-  background: linear-gradient(141.05deg, #0300a2 0%, #cf10e3 100%);
-  padding-top: 30px;
+.feature-product-info {
   color: white;
   background-size: cover;
   background-attachment: fixed;
@@ -110,7 +110,7 @@ h3 {
 .btn-main {
   height: 60px;
   width: 273px;
-  border-radius: 32.5px;
+  border-radius: 32px;
   background-color: #ffffff;
 
   color: #0300a2;
@@ -122,8 +122,6 @@ h3 {
 }
 
 .date {
-  height: 57px;
-  width: 465px;
   color: #009cdd;
   font-family: "IBM Plex Sans";
   font-size: 60px;
@@ -153,10 +151,25 @@ h3 {
 /***************************************************************************/
 /*                               section nasa                              */
 /***************************************************************************/
-.section-nasa {
-  background-color: #02005c;
-  background: linear-gradient(56.87deg, #02005c 0%, #651372 99.97%);
+
+.section-nasa_container {
+  position: relative;
+  z-index: 1;
 }
+
+.section-nasa {
+  position: relative;
+  background: linear-gradient(90deg, #02005c 0%, #651372 100%);
+  border-top-left-radius: 100% 30%;
+  border-top-right-radius: 100% 30%;
+}
+
+.section-nasa_content {
+  position: relative;
+  background-color: transparent;
+  overflow: hidden;
+}
+
 .lower {
   padding-top: 150px;
 }
@@ -188,6 +201,7 @@ p {
 /***************************************************************************/
 /*                                program                                  */
 /***************************************************************************/
+
 .program {
   color: #009cdd;
   font-family: "IBM Plex Sans Condensed";
@@ -316,6 +330,7 @@ p {
   padding: 20px;
   font-size: 130%;
 }
+
 .btn {
   margin-bottom: 5px;
 }
@@ -376,7 +391,7 @@ p {
 .subtitle {
   color: #0300a2;
   font-family: "IBM Plex Sans";
-  font-size: 55px;
+  font-size: 40px;
   font-weight: bold;
   line-height: 35px;
   margin-top: 150px;
@@ -453,16 +468,15 @@ p {
   border-radius: 21px;
   font-size: 20px;
 }
-.registration .btnpremiera {
+.btnpremiera {
   margin-top: 15px;
-  background: #9cfffc;
+  padding: 15px 40px;
+  background: #fd6600;
   border-radius: 21px;
-  color: black;
-  width: 100%;
-  font-size: 21px;
+  color: white;
+  font-size: 24px;
   font-family: "Myriad Pro", sans-serif;
-  font-weight: 500;
-  margin-bottom: 100px;
+  font-weight: bold;
 }
 
 #form {
@@ -500,11 +514,7 @@ p {
 /*                                footer                                   */
 /***************************************************************************/
 #footer {
-  background-color: #0300a2;
-  background: linear-gradient(141.05deg, #0300a2 0%, #0300a2 100%);
-}
-
-.footer {
+  background-color: #02005c;
   width: 100%;
 }
 
@@ -540,4 +550,24 @@ p {
   visibility: visible;
   cursor: pointer;
   opacity: 0.5;
+}
+
+@media all and (max-width: 768px) {
+  .container {
+    text-align: center;
+  }
+  .date {
+    font-size: 50px;
+  }
+  .program {
+    font-size: 60px;
+  }
+
+  .address {
+    font-size: 20px;
+  }
+
+  .navbar-nav {
+    background-color: #02005c;
+  }
 }

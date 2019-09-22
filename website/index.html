@@ -1,420 +1,310 @@
 <!DOCTYPE html>
 <html lang="pl">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed:200i,400,700&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed:200i,400,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/font-awesome-animation.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <title>Szczecin SpaceApps Challenge</title>
+    <title>Szczecin Space Apps Challenge</title>
     <meta name="description" content="NASA Space Apps Challenge to 48-godzinny hackathon, który polega na rozwiązywaniu wybranego z całej masy nietypowych, kosmicznych problemów">
     <meta name="robots" content="index, follow" />
     <link rel="shortcut icon" href="images/favicon-icons-48x48.png">
-    <!-- JQUERY -->
-    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-    <!--  SCROLL UP -->
-    <script type="text/javascript" src="js/scroll.js"></script>
 </head>
+
 <body>
-    <header>
-       <nav class="navbar navbar-default navbar-fixed-top">
-            <div class="container">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-                        data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand">
-                        <img alt="logo" class="logo" src="images/space_apps_logo.png">
-                    </a>
-                </div>
-                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                    <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <a href="https://2019.spaceappschallenge.org/locations/szczecin-zachodniopomorskie/">Zapisz się</a>
-                        </li>
-                        <li>
-                            <a href="#program">Program</a>
-                        </li>
-<!--                        <li>-->
-<!--                            <a href="#sponsors">Sponsorzy</a>-->
-<!--                        </li>-->
-                        <li>
-                            <a href="#team">Organizatorzy</a>
-                        </li>
-                        <li>
-                            <a href="#location-map">Lokalizacja</a>
-                        </li>
-                        <li>
-                            <a href="https://www.facebook.com/szczecinspaceapps/"><img src="images/fbicon.png"  alt="Facebook icon" height="25px" style="margin: 0; padding: 0;"/></a>
-                        </li>
-                    </ul>
-                </div>
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand">
+                    <img alt="logo" class="logo" src="images/space_apps_logo.png">
+                </a>
             </div>
-        </nav>
-    </header>
-
-   <section id="main-info">
-        <div class="main-info">
-            <div class="container">
-                <div class="row about">
-                    <div class="col-lg-5 col-md-5 col-sm-12 ">
-
-                        <h3 class="section-title">Twórz kosmiczne technologie w Szczecinie </h3>
-                        <h2 class="desc">48-godzinny Hackathon z rozwiazywaniem kosmicznych problemów.</h2>
-                        <h2 class="date">18-20.10.2019</h2>
-                        <form>
-                            <button type="submit" formaction="https://2019.spaceappschallenge.org/locations/szczecin-zachodniopomorskie/" class="btn btn-main">Zapisz się</button>
-                        </form>
-                    </div>
-                    <div class=" col-md-offset-6  ">
-                        <img alt="unicorn" class="img-unicorn" src="images/img-unicorn2.png">
-                    </div>
-                </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="https://2019.spaceappschallenge.org/locations/szczecin-zachodniopomorskie/">Zapisz się</a>
+                    </li>
+                    <li>
+                        <a href="#details">O hackatonie</a>
+                    </li>
+                    <li>
+                        <a href="#agenda">Program</a>
+                    </li>
+                    <li>
+                        <a href="#sponsors">Sponsorzy</a>
+                    </li>
+                    <li>
+                        <a href="#team">Organizatorzy</a>
+                    </li>
+                    <li>
+                        <a href="#localization">Lokalizacja</a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/szczecinspaceapps/"><img src="images/fbicon.png" alt="Facebook icon" height="40px"></a>
+                    </li>
+                </ul>
             </div>
-    </section>
 
-   <section>
-        <div class="section-nasa">
-            <div class="container">
+        </div>
+    </nav>
 
-                <div class="row about">
-                    <div class=" col-md-5 col-sm-5 ">
-                        <img alt="img-astronauta1" src="images/img-astronauta1.svg">
-                    </div>
-                    <div class=" col-md-offset-1 col-md-5  col-sm-12 ">
+    <div class="gradient-bg">
+        <section id="product-info">
+            <div class="feature-product-info">
+                <div class="container">
+                    <div class="row about">
+                        <div class="col-lg-5 col-md-5 col-sm-12 ">
+                            <h2 class="section-title">Twórz kosmiczne technologie w Szczecinie </h2>
+                            <h2 class="desc">48-godzinny Hackathon z rozwiazywaniem kosmicznych problemów.</h2>
+                            <h4 class="date">18-20.10.2019</h4>
+                            <a href="https://2019.spaceappschallenge.org/locations/szczecin-zachodniopomorskie/" target="_blank">
+                                <button type="button" class="btn btn-main">Zapisz się</button>
+                            </a>
+                        </div>
 
-                        <h3 class="section-title ">NASA Space Apps Challenge </h3>
-                        <p class="desc-text">NASA Space Apps Challenge to 48-godzinny hackathon (sprint
-                            programistyczny), który polega na rozwiązywaniu wybranego z całej masy nietypowych,
-                            kosmicznych problemów - tych na które możemy natrafić zarówno na Ziemi, przetwarzając dane o
-                            obserwacji naszej lub innych planet, jak i na misji kosmicznej w odległej galaktyce!</p>
-
+                        <div class=" col-md-offset-6  ">
+                            <img alt="unicorn" class="img-unicorn" src="images/img-unicorn2.png">
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="container">
+        </section>
+        <section class="section-nasa_container" id="details">
+            <div class="section-nasa">
+                <div class="container section-nasa_content">
+                    <div class="row about">
+                        <div class=" col-md-5 col-sm-5">
 
-                <div class="row read-more ">
+                            <img alt="img-astronauta1" src="images/img-astronauta1.svg">
+                        </div>
+                        <div class=" col-md-offset-1 col-md-5  col-sm-12 ">
 
-                    <div class="col-md-offset-1 col-md-4 col-sm-offset-1 col-sm-4">
+                            <h3 class="section-title ">NASA Space Apps Challenge </h3>
+                            <p class="desc-text">NASA Space Apps Challenge to 48-godzinny hackathon (sprint
+                                programistyczny), który polega na rozwiązywaniu wybranego z całej masy nietypowych,
+                                kosmicznych problemów - tych na które możemy natrafić zarówno na Ziemi, przetwarzając
+                                dane o
+                                obserwacji naszej lub innych planet, jak i na misji kosmicznej w odległej galaktyce!</p>
 
-                        <h3 class="section-title ">Z czym mierzyli się uczestnicy w poprzednich latach? </h3>
-
+                        </div>
                     </div>
-                    <div class="col-md-offset-1 col-md-5 col-sm-offset-1 col-sm-5 ">
-                        <div class="col-md-6 col-sm-12 square ">
-                            <p>Zaprojektować sposób wykorzystania danych z projektu NASA Earth do scharakteryzowania
-                                rejonów w których można założyć nieformalne osady.
-                            <span class="yellow">Czytaj więcej </span></p>
+                </div>
+                <div class="container section-nasa_content">
+
+
+                    <div class="row read-more ">
+
+                        <div class="col-md-offset-1 col-md-4 col-sm-offset-1 col-sm-4">
+
+                            <h3 class="section-title">Z czym mierzyli się uczestnicy w poprzednich latach? </h3>
 
                         </div>
-                        <div class="col-md-6  col-sm-12 square ">
-                            <p>Napisać aplikację web, która wykorzystując koordynaty dwu- i trójwymiarowe, wizualizuje
-                                je na dwuwymiarowej mapie świata.
-                            <span class="yellow">Czytaj więcej </span></p>
-
-                        </div>
-                        <div class="col-md-6 col-sm-12 square ">
-                            <p>Użyć danych satelitarnych i innych dostępnych zasobów, aby pomóc właścicielom ziemi i
-                                rolnikom znaleźć źródła wody.
-                            <span class="yellow">Czytaj więcej </span></p>
-                        </div>
-                        <div class="col-md-6 col-sm-12 square">
-                            <p>Stworzyć sensor, lub zestaw sensorów do użycia przez ludzi na Marsie.
+                        <div class="col-md-offset-1 col-md-6 col-sm-offset-1 col-sm-5 ">
+                            <div class="col-md-6 col-sm-12 square ">
+                                <p>Zaprojektować sposób wykorzystania danych z projektu NASA Earth do scharakteryzowania
+                                    rejonów w których można założyć nieformalne osady.
                                 <span class="yellow">Czytaj więcej </span></p>
+
+                            </div>
+                            <div class="col-md-6  col-sm-12 square ">
+                                <p>Napisać aplikację web, która wykorzystując koordynaty dwu- i trójwymiarowe,
+                                    wizualizuje
+                                    je na dwuwymiarowej mapie świata.
+                                    <span class="yellow">Czytaj więcej </span>
+                                </p>
+                            </div>
+                            <div class="col-md-6 col-sm-12 square ">
+                                <p>Użyć danych satelitarnych i innych dostępnych zasobów, aby pomóc właścicielom ziemi i
+                                    rolnikom znaleźć źródła wody.
+                                <span class="yellow">Czytaj więcej </span>
+                                </p>
+                            </div>
+                            <div class="col-md-6 col-sm-12 square">
+                                <p>Stworzyć sensor, lub zestaw sensorów do użycia przez ludzi na Marsie.
+                                <span class="yellow">Czytaj więcej </span></p>
+                            </div>
                         </div>
+
                     </div>
 
                 </div>
-
+            </div>
+        </section>
+    </div>
+    <section id="agenda">
+        <div class="section-agenda container">
+            <div class="row">
+                <h1 class="program">Program</h1>
+                <p class="the-date">18.10.2019 </p>
+                <p class="weekday">Dzień 1, Piątek</p>
+            </div>
+            <div class="row">
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">18:00 - 19:00</p>
+                    <p class="agenda1">Rejestracja uczestników, przywitanie</p>
+                </div>
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">19:00 - 19:45</p>
+                    <p class="agenda1">Jacek Zieliński o obserwacji nocnego nieba i obróbce zdjęć</p>
+                </div>
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">20:00 - 21:00</p>
+                    <p class="agenda1">Dyskusje o zadaniach. Pomoc w przygotowaniu się. Rozmowa z mentorami.</p>
+                </div>
+            </div>
+            <div class="row section-space">
+                <p class="the-date">19.10.2019 </p>
+                <p class="weekday">Dzień 2, Sobota</p>
+            </div>
+            <div class="row">
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">09:00 - 10:00</p>
+                    <p class="agenda1">Otwarcie dnia, rejestracja, informacje o zasadach</p>
+                </div>
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">10:00 - 10:30</p>
+                    <p class="agenda1">Wystąpienia sponsorów</p>
+                </div>
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">11:00</p>
+                    <p class="agenda1">Rozpoczecie pracy nad projektami</p>
+                </div>
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">13:00 - 14:00</p>
+                    <p class="agenda1">Warsztaty: Druk 3D - przegląd narzędzi i urządzeń</p>
+                </div>
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">14:00 - 15:00</p>
+                    <p class="agenda1">Obiad</p>
+                </div>
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">17:00 - 18:00</p>
+                    <p class="agenda1">Prezentacje postępów projektów</p>
+                </div>
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">18:30 - 19:30</p>
+                    <p class="agenda1">Kolacja</p>
+                </div>
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">00:00</p>
+                    <p class="agenda1">Pizza!</p>
+                </div>
+            </div>
+            <div class="row section-space">
+                <p class="the-date">20.10.2019 </p>
+                <p class="weekday">Dzień 3, Niedziela</p>
+            </div>
+            <div class="row">
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">08:00 - 10:00</p>
+                    <p class="agenda1">Otwarcie dnia, śniadanie</p>
+                </div>
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">12:00</p>
+                    <p class="agenda1">Deadline zakończenia prac</p>
+                </div>
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">12:00 - 14:00</p>
+                    <p class="agenda1">Prezentacja projektów przed jury</p>
+                </div>
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">14:00 - 15:00</p>
+                    <p class="agenda1">Quiz z nagrodami!</p>
+                </div>
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">15:30</p>
+                    <p class="agenda1">Ogłoszenie wyników</p>
+                </div>
+                <div class="col-md-offset-1 col-md-10">
+                    <p class="hours">17:00 - ??</p>
+                    <p class="agenda1">Afterparty</p>
+                </div>
             </div>
         </div>
     </section>
 
-   <section id="program">
+    <section id="sponsors">
         <div class="container">
             <div class="row">
-                <div class="col-md-offset-1 col-md-5 col-sm-12">
-                    <h1 class="program">Program</h1>
-                    <p class="the-date">18.10.2019 </p>
-                    <p class="weekday">Dzień 1, Piątek</p>
+                <h2 class="program">Sponsorzy</h2>
+                <p class="bling-bling sponsor-space">Sponsor główny</p>
+            </div>
+            <div class="row">
+                <div class="col-md-offset-1 col-md-4 col-sm-offset-1 col-sm-3">
+                    <div class="logos">
+                        <a href="https;//ncdc.eu">
+                            <img src="images/logos/ncdc350140.png" alt="Nordic Consulting & Development Company" style="max-width: 400px;">
+                        </a>
+                    </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-offset-1 col-md-10">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <p class="hours">18:00 - 19:00</p>
-                            <p class="agenda1">Rejestracja uczestników, informacje o zasadach obowiązujących na hackathonie</p>
-                            <p class="subs">Informacje o sponsorach i partnerach</p>
-                            <div class="line"></div>
-                        </div>
-
-                        <div class="col-md-12">
-                            <p class="hours">19:00 - 19:45</p>
-                            <p class="agenda1">Jacek Zieliński o obserwacji nocnego nieba i obróbce zdjęć</p>
-                            <div class="line"></div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <p class="hours">20:00 - 21:00</p>
-                            <p class="agenda1">Planowanie soboty</p>
-                            <div class="line"></div>
-                        </div>
-                    </div>
-
-                </div>
+                <p class="bling-bling sponsor-space">Wspierają nas również</p>
             </div>
-            <div class="row section-space">
-                <div class="col-md-offset-1 col-md-5 col-sm-12">
-                    <p class="the-date">19.10.2019 </p>
-                    <p class="weekday">Dzień 2, Sobota</p>
+            <div class="row">
+                <div class="col-md-offset-1 col-md-4 col-sm-offset-1 col-sm-3">
+                    <div class="logos">
+                        <a href="https://red-sky.com/">
+                            <img src="images/logos/redsky.png" alt="Red Sky Sp. z o. o." style="max-width: 400px;">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-offset-1 col-md-4 col-sm-offset-1 col-sm-3">
+                    <div class="logos">
+                        <a href="https://oskarwegner.pl/">
+                            <img src="images/logos/OskarWegner.png" alt="Oskar Wegner" style="max-width: 400px;">
+                        </a>
+                    </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-offset-1 col-md-10">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <p class="hours">09:00 - 10:00</p>
-                            <p class="agenda1">Otwarcie dnia</p>
-                            <p class="subs">Przygotowanie do pracy, ostatnie rejestracje</p>
-                            <div class="line"></div>
-                        </div>
-                        <div class="col-md-12">
-                            <p class="hours">10:00 - 10:30</p>
-                            <p class="agenda1">Wystąpienia sponsorów</p>
-                            <p class="subs"></p>
-                            <div class="line"></div>
-                        </div>
+                <div class="col-md-offset-1 col-md-4 col-sm-offset-1 col-sm-3">
+                    <div class="logos">
+                        <a href="http://stickermule.com/supports/nasaszczecin19-sponsorship">
+                            <img src="images/logos/02-sticker-mule-logo-light.png" alt="Stickermule" style="max-width: 400px;">
+                        </a>
                     </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <p class="hours">11:00</p>
-                            <p class="agenda1">Rozpoczynamy pracę nad projektami</p>
-                            <div class="line"></div>
-                        </div>
-                        <div class="col-md-6">
-                            <p class="hours">13:00 - 14:00</p>
-                            <p class="agenda1">Warsztaty/prelekcja - ogłosimy wkrótce</p>
-                            <div class="line"></div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <p class="hours">14:00 - 15:00</p>
-                            <p class="agenda1">Obiad</p>
-                            <div class="line"></div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <p class="hours">17:00 - 18:00</p>
-                            <p class="agenda1">Prezentacje postępów projektów</p>
-                            <div class="line"></div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <p class="hours">18:30 - 19:30</p>
-                            <p class="agenda1">Kolacja</p>
-                            <p class="subs">Dostępne również potrawy wegańskie i wegetariańskie</p>
-                            <div class="line"></div>
-                        </div>
-                    </div>
-
                 </div>
             </div>
-            <div class="row section-space">
-                <div class="col-md-offset-1 col-md-5 col-sm-12">
-                    <p class="the-date">20.10.2019</p>
-                    <p class="weekday">Dzień 3, Niedziela</p>
-                </div>
+
+            <div class="row">
+                <a href="https://drive.google.com/open?id=15Jhthf9D3pApUgDxHlsINwagqMT-G77iyIGNHH4WmfI" target="_blank">
+                    <button type="button" class="btn btnpremiera">Zostań sponsorem</button>
+                </a>
             </div>
             <div class="row">
-                <div class="col-md-offset-1 col-md-10">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <p class="hours">8:00 - 10:00</p>
-                            <p class="agenda1">Śniadanie</p>
-                            <p class="subs">Dostępne również potrawy wegańskie i wegetariańskie</p>
-                            <div class="line"></div>
-                        </div>
-
-                        <div class="col-md-12">
-                            <p class="hours">12:00</p>
-                            <p class="agenda1">Termin wysyłania prac</p>
-                            <p class="subs"></p>
-                            <div class="line"></div>
-                        </div>
+                <h1 class="program">Partnerzy</h1>
+            </div>
+            <div class="row">
+                <div class="col-md-offset-2 col-md-4 col-sm-offset-1 col-sm-3">
+                    <div class="logos">
+                        <a href="https://flynerd.pl">
+                            <img src="images/logos/flynerd.png" alt="Flynerd.pl" style="max-width: 400px;">
+                        </a>
                     </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <p class="hours">12:00 - 14:00</p>
-                            <p class="agenda1">Prezentacja przed jury</p>
-                            <div class="line"></div>
-                        </div>
-                        <div class="col-md-12">
-                            <p class="hours">18:00 - 19:00</p>
-                            <p class="agenda1">Quiz w oczekiwaniu na ogłoszenie wyników ;-)</p>
-                            <div class="line"></div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <p class="hours">19:00 - 20:00</p>
-                            <p class="agenda1">Ogłoszenie wyników i rozdanie nagród dla zwycięzców</p>
-                            <p class="subs">Zakończenie hackathonu</p>
-                            <div class="line"></div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <p class="hours">20:30 - 00:00</p>
-                            <p class="agenda1">Afterparty</p>
-                            <p class="subs">Miejsce zostanie ogłoszone wkrótce</p>
-                            <div class="line"></div>
-                        </div>
+                </div>
+                <div class="col-md-offset-2 col-md-4 col-sm-offset-1 col-sm-3">
+                    <div class="logos">
+                        <a href="https://www.facebook.com/reactszn/">
+                            <img src="images/logos/reactszn.png" alt="ReactSzn" style="max-width: 400px;">
+                        </a>
                     </div>
                 </div>
             </div>
         </div>
-
     </section>
-<!--   <section id="sponsors">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-offset-1 col-md-5 col-sm-12">
-                    <h1 class="sponsors">Sponsorzy</h1>
-                    <p class="bling-bling">Złoty </p>
 
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-offset-1 col-md-5 col-sm-12">
-                    <p class="bling-bling sponsor-space">Srebrny </p>
-
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-offset-1 col-md-5 col-sm-12">
-                    <p class="bling-bling sponsor-space">Brązowy </p>
-
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3">
-                    <div class="thumbnail logos">
-                        <a href="#">
-                            <img src="images/logos/ncdc30083.png" alt="NCDC" style="width:100%">
-                            <div class="caption">
-                                <p>NCDC</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-offset-1 col-md-5 col-sm-offset-1 col-sm-5">
-                    <h1 class="support"><a href="#">Chcesz wesprzeć Szczecin Space Apps Challange? Kliknij tutaj</a></h1>
-                </div>
-            </div>
-        </div>
-        </div>
-    </section> --!>
    <section id="team">
         <div class="container text-center sec-title text-center wow fadeInUp animated">
             <div class="row">
@@ -575,65 +465,36 @@
                 </div>
 
             </div>
+        </div>
     </section>
-    <section id="location-map">
-        <div class="container spacy">
+    <section id="localization">
+        <div class="container">
             <div class="row">
-                <div class="col-md-offset-1 col-md-4  col-sm-12 col-sm-12">
-                    <p class="location">Lokalizacja</p>
+                <div class="col-md-offset-1 col-md-4 col-sm-offset-1 col-sm-4">
+                    <p class="localization">Lokalizacja</p>
                     <p class="address">Siedziba NCDC</p>
                     <p class="address">ul. Bartosza Głowackiego 4</p>
                     <p class="address">70-238 Szczecin</p>
                 </div>
-                <div class="col-md-6 col-sm-12">
-                    <img src="images/img-map.png" class="img-responsive max-width: 100% height: auto"
-                        alt="spaceappschallange map">
+                <div class="col-md-6 col-sm-6">
+                    <img src="images/img-map.png" class="img-responsive max-width: 100% height: auto"  alt="spaceappschallange map">
                 </div>
             </div>
         </div>
     </section>
-<!--    <section class="registration" id="form">
-        <div class="container">
-            <div class="row">
-                <div class="  col-md-offset-1 col-md-5 col-sm-offset-1 col-sm-5">
-                    <h2 class="signup">Zapisz się na listę mailową</h2>
-
-                    <form>
-                        <div class="form-group col-xs-12 col-sm-12 col-sm-12">
-                            <label for="name">Podaj imię:</label>
-                            <input type="name" class="form-control" id="name" placeholder="Wpisz imię...">
-                        </div>
-                        <div class="form-group col-xs-12 col-sm-12">
-                            <label for="email">E-mail:</label>
-                            <input type="email" class="form-control" id="email" placeholder="Wpisz adres e-mail...">
-                        </div>
-                        <div class=" col-md-8 col-sm-8 "><button type="submit" class="btn btn-signup">Zapisz
-                                się</button>
-                            <p class="privacy">Polityka prywatnosci?</p>
-                        </div>
-
-                    </form>
-                </div>
-                <div class=" col-md-4 col-sm-4  ">
-
-                    <img alt="img-astronauta2" src="images/img-astronauta2.png">
-
-                </div>
-            </div>
-        </div>
-    </section> --!>
     <section class="footer" id="footer">
         <div class="container">
             <div class="row">
-                <div class="col-sm-offset-1 col-sm-6  col-md-offset-1 col-md-6">
-                    <p class="copyright">&copy; 2019 spaceapps.szczecin.pl </p>
+                <div class="col-sm-offset-1 col-sm-12  col-md-offset-1 col-md-12">
+                    <p class="copyright">&copy; 2019 spaceapps.szczecin.pl - Made with love in Szczecin, Poland | Dziękujemy <a href="https://www.linkedin.com/in/dominik-grochowicki-874b5562/">Dominikowi Grochowickiemu</a> za design i pomoc graficzną</p>
                 </div>
 
             </div>
 
         </div>
     </section>
-    <span class="scroll-to-top fa fa-arrow-circle-o-up"></span>
+    <span class="scroll-to-top fa fa-10x fa-arrow-circle-o-up" ></span>
+
     <script src="bootstrap/jquery.min.js"></script>
     <script src="bootstrap/bootstrap.min.js"></script>
     <script>
@@ -649,6 +510,8 @@
             });
         });
     </script>
+    <script type="text/javascript" src="js/scroll.js"></script>
+    <script type="text/javascript" src="js/cookie-info.js"></script>
 </body>
 
 </html>
