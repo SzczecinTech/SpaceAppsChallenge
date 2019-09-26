@@ -526,19 +526,14 @@ p {
 /*                         scroll to top button                            */
 /***************************************************************************/
 
-.fa-arrow-circle-o-up {
-  font-size: 60px;
+.scroll-to-top {
   position: fixed;
   opacity: 0;
   visibility: hidden;
   overflow: hidden;
   text-align: center;
-  right: 30px;
-  bottom: 30px;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
-  border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px;
+  right: 20px;
+  bottom: 20px;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -ms-transition: all 0.5s ease-in-out;
@@ -546,10 +541,14 @@ p {
   transition: all 0.5s ease-in-out;
 }
 
-.fa-arrow-circle-o-up.show {
+.scroll-to-top img {
+  max-width: 50px;
+}
+
+.scroll-to-top.show {
   visibility: visible;
   cursor: pointer;
-  opacity: 0.5;
+  opacity: 0.6;
 }
 
 @media all and (max-width: 768px) {
