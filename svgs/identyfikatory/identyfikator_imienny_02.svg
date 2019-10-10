@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="identyfikator_imienny_00.svg">
+   sodipodi:docname="identyfikator_imienny_02.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -296,10 +296,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="464.38771"
-     inkscape:cy="276.92182"
+     inkscape:cx="370.34251"
+     inkscape:cy="443.79902"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1512"
+     inkscape:current-layer="g1618"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -1624,25 +1624,25 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="48.394299"
+         x="42.645294"
          y="95.879677"
          id="text465"><tspan
            sodipodi:role="line"
            id="tspan463"
-           x="48.394299"
+           x="42.645294"
            y="95.879677"
-           style="stroke-width:0.26458332">Milena</tspan></text>
+           style="stroke-width:0.26458332">Grzesiek</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="43.450928"
+         x="46.897228"
          y="111.54649"
          id="text469"><tspan
            sodipodi:role="line"
            id="tspan467"
-           x="43.450928"
+           x="46.897228"
            y="111.54649"
-           style="font-size:6.3499999px;stroke-width:0.26458332">Organizatorka</tspan></text>
+           style="font-size:6.3499999px;stroke-width:0.26458332">Organizator</tspan></text>
     </g>
     <g
        id="g1512">
@@ -2952,25 +2952,25 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="55.145821"
+           x="45.182606"
            y="225.52551"
            id="text1086"><tspan
              sodipodi:role="line"
              id="tspan1084"
-             x="55.145821"
+             x="45.182606"
              y="225.52551"
-             style="stroke-width:0.26458332">Asia</tspan></text>
+             style="stroke-width:0.26458332">Damian</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="43.450928"
+           x="46.897228"
            y="241.19232"
            id="text1090"><tspan
              sodipodi:role="line"
              id="tspan1088"
-             x="43.450928"
+             x="46.897228"
              y="241.19232"
-             style="font-size:6.3499999px;stroke-width:0.26458332">Organizatorka</tspan></text>
+             style="font-size:6.3499999px;stroke-width:0.26458332">Organizator</tspan></text>
       </g>
     </g>
     <flowRoot
